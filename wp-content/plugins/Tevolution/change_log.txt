@@ -1,0 +1,238 @@
+Templatic Plugin - Tevolution(version 2.0.5)   13 Oct 2013
+==================================================================================================================================================================================================================
+18th December 2013 (Version 2.0.5)
+-------------------------------------------------------------------------------------------
+Fix - Address field was not working properly when bulk upload was done with German language
+------------------------------------------------------------------------------------------
+tmplconnector/monetize/templatic-bulk_upload/install.php
+------------------------------------------------------------------------------------------------------
+Improvement: Added a function which brings back the option to change columns on WordPress Dashboard
+----------------------------------------------------------------------------------------------------
+templatic.php
+------------------------------------------------------------------
+13th December 2013 (Version 2.0.5)
+--------------------------------------------------------------------------
+Improvement: UI improvements in whole plugin to match WordPress 3.8 UI
+-------------------------------------------------------------------------
+3rd December 2013 (Version 2.0.4)
+----------------------
+UPDATED : po-mo files.
+----------------------
+languages/en_US.mo
+languages/en_US.po
+
+------------------------------------------------------
+FIX : In mobile view pop was not correct for claim listing.
+------------------------------------------------------
+tmplconnector/monetize/templatic-claim_ownership/claim_functions.php
+
+-----------------------------------------------
+FIX : Browse category shown count option issue.
+-----------------------------------------------
+tmplconnector/monetize/templatic-widgets/templatic_browse_by_categories_widget.php
+
+----------------------------
+FIX : Payment gateway error.
+----------------------------
+tmplconnector/monetize/templatic-custom_fields/install.php
+tmplconnector/monetize/templatic-custom_fields/js/payment_gateway_validation.js
+tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php
+
+-------------------------------------------------------
+FIX : Changed claim ownership button label and message.
+-------------------------------------------------------
+tmplconnector/monetize/templatic-claim_ownership/claim_widget.php
+tmplconnector/monetize/templatic-claim_ownership/install.php
+
+------------------------------------------------------------------------------------------------------------------
+FIX :
+Issue of google map slow load issue in IE for optimize infobubble script and minify infobubble script in markermanager.js
+Issue of overflow visible in InfoBubble script.
+------------------------------------------------------------------------------------------------------------------
+js/infobubble.js
+js/markermanager.js
+
+----------------------------------------------------
+FIX : Pagination was showing even where it shouldn't.
+----------------------------------------------------
+tmplconnector/shortcodes/shortcode_people.php
+
+---------------------------------------------------------------------------------------------------
+FIX : Issue of bulk import for address latitude and longitude fields insert when both are blank in CSV file.
+---------------------------------------------------------------------------------------------------
+tmplconnector/monetize/templatic-bulk_upload/install.php
+tmplconnector/monetize/templatic-bulk_upload/templatic_bulk_upload.php
+
+-----------------------------------------
+FIX : Corrected message on preview page.
+-----------------------------------------
+tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php
+
+--------------------------------------------------
+FIX : Double quote address breaks in input text box.
+--------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/location_add_map.php
+
+----------------------------------------------------------
+FIX : Validation is for CVV number in eWay Payment method.
+----------------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/js/payment_gateway_validation.js
+
+-------------------------------------------------------------------------
+FIX :
+pay per subscription issue with multiple taxonomy selected for price package.
+Issue of number format issue for final total amount on success page.
+Issue of pay per subscription with multiple post type.
+WPML related issues.
+--------------------------------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php
+tmplconnector/monetize/templatic-monetization/price_package_functions.php
+tmplconnector/shortcodes/shortcode_submit_form_page.php
+
+-------------------------------------------------------------------------------------------------------------
+FIX : The special characters (Greek letters) are not getting displaying as a category name on front end map page.
+-------------------------------------------------------------------------------------------------------------
+tmplconnector/shortcodes/shortcode-init.php
+
+--------------------------------------------------
+FIX : Issue of Popup form height & position in mobile.
+--------------------------------------------------
+style.css
+
+------------------------------------------------------------------------------
+FIX : Issue of my favorite tab on author page must be visible only to current user.
+------------------------------------------------------------------------------
+tmplconnector/monetize/templatic-generalizaion/general_functions.php
+
+----------------------------------------
+FIX : Show price on submit preview page.
+----------------------------------------
+tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php
+
+-----------------------------------------------------------
+FIX :
+Currency symbol position issue for home page feature option.
+Price package section was not working properly.
+-----------------------------------------------------------
+tmplconnector/monetize/templatic-monetization/price_package_js.php
+
+-----------------------------------------------------------------------------------
+FIX : Added validation for braintree payment gateway and fetch price on preview page.
+-----------------------------------------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php
+tmplconnector/monetize/templatic-custom_fields/js/payment_gateway_validation.js
+
+-------------------------------------------------------------
+FIX :
+Paypal return link issue.
+Paypal recurring option as per set recurring price package.
+-------------------------------------------------------------
+tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/paypal_response.php
+
+----------------------------------------------------
+FIX : Custom fields were not displaying on detail page.
+----------------------------------------------------
+tmplconnector/monetize/templatic-custom_taxonomy/taxonomy_functions.php
+
+-------------------------------------------------------------
+FIX : Coupon code was not working if we set discount as 100% 
+-------------------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/submit_preview_buttons.php
+tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/ajax_check_coupon_code.php
+
+-----------------------------------------------------------------
+FIX : WPML related issue and defined DOING_AJAX in ajax_price.php
+-----------------------------------------------------------------
+tmplconnector/monetize/templatic-monetization/ajax_price.php
+
+-------------------------------------------------------------------------
+FIX : tevolution listing map script issue with adding shortcode in text widget.
+-------------------------------------------------------------------------
+tmplconnector/monetize/templatic-claim_ownership/popup_claim_form.php
+tmplconnector/monetize/templatic-generalizaion/popup_frms.php
+tmplconnector/shortcodes/shortcode_taxonomies_map.php
+tmplconnector/monetize/templatic-ratings/get_rating.php
+
+------------------------------------------------------
+FIX : Recaptcha was not working when with https:// 
+------------------------------------------------------
+tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php
+tmplconnector/monetize/templatic-registration/registration_form.php
+
+
+
+20th November 2013 (Version 2.0.3)
+----------------------------------------------------------------
+Improvement: Localization of whole plugin
+-------------------------------------------------------------------------------------------------------------
+Fix: Price package was not showing after go back and edit while categorywise custom fields option is enabled
+---------------------------------------------------------------------------------------------------------
+/tmplconnector/monetize/templatic-monetization/price_package_functions.php
+------------------------------------------------------------------------------
+Fix: External scripts were not working on SSL enabled website
+---------------------------------------------------------------------
+/tmplconnector/templatic-connector.php
+------------------------------------------------------
+
+15th November 2013 (Version 2.0.2)
+---------------------------------------------------------------------------
+Improvement: Used WP_CONTENT_DIR instead of ABSPATH/wp-content folder path
+--------------------------------------------------------------------------
+templatic.php
+/classes/main.connector.class.php
+/tmplconnector/monetize/templatic-bulk_upload/export_to_CSV.php
+/tmplconnector/monetize/templatic-claim_ownership/claim_functions.php
+/tmplconnector/monetize/templatic-custom_fields/ajax_check_coupon_code.php
+/tmplconnector/monetize/templatic-custom_fields/ajax_custom_taxonomy.php
+/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php
+/tmplconnector/monetize/templatic-custom_fields/custom_fields_preview.php
+/tmplconnector/monetize/templatic-custom_fields/delete-file.php
+/tmplconnector/monetize/templatic-custom_fields/install.php
+/tmplconnector/monetize/templatic-custom_fields/processImage.php
+/tmplconnector/monetize/templatic-custom_fields/registration.php
+/tmplconnector/monetize/templatic-custom_fields/success.php
+/tmplconnector/monetize/templatic-custom_fields/uploadfile.php
+/tmplconnector/monetize/templatic-custom_taxonomy/install.php
+/tmplconnector/monetize/templatic-generalizaion/ajax_event.php
+/tmplconnector/monetize/templatic-generalizaion/general_functions.php
+/tmplconnector/monetize/templatic-monetization/ajax_categories_dropdown.php
+/tmplconnector/monetize/templatic-monetization/ajax_category_amount.php
+/tmplconnector/monetize/templatic-monetization/ajax_price.php
+/tmplconnector/monetize/templatic-monetization/ajax_update_status.php
+/tmplconnector/monetize/templatic-monetization/export_transaction.php
+/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/ajax_check_coupon_code.php
+/tmplconnector/monetize/templatic-monetization/templatic-manage_coupon/ajax_check_coupon_code_exist.php
+/tmplconnector/monetize/templatic-monetization/templatic-payment_options/admin_payment_options_class.php
+/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment/paypal/return.php
+/tmplconnector/monetize/templatic-monetization/templatic-payment_options/payment_functions.php
+/tmplconnector/monetize/templatic-registration/ajax_check_user_email.php
+/tmplconnector/monetize/templatic-registration/login_box_widget.php
+/tmplconnector/monetize/templatic-registration/registration_form.php
+/tmplconnector/templatic-connector.php
+--------------------------------------------------------------------------
+Improvement: Bulk Import functionality
+------------------------------------------------------------------------
+/tmplconnector/monetize/templatic-bulk_upload/templatic_bulk_upload.php
+/js/admin-script.js
+---------------------------------------------------------------------------
+Fix: Issues with creating new post type - a blank post type was generated
+--------------------------------------------------------------------------
+/tmplconnector/monetize/templatic-custom_taxonomy/add_custom_taxonomy.php
+----------------------------------------------------------------------------
+Fix: Listing which are in Drafts were not appearing on author dashboard
+-------------------------------------------------------------------------
+/tmplconnector/monetize/templatic-registration/registration_functions.php
+--------------------------------------------------------------------------
+Improvement: Option to disable Tevolution Cache
+-----------------------------------------------------------------------------------------
+/tmplconnector/monetize/templatic-custom_fields/custom_fields_function.php
+/tmplconnector/monetize/templatic-custom_fields/install.php
+/tmplconnector/monetize/templatic-widgets/templatic_browse_by_categories_widget.php
+/tmplconnector/monetize/templatic-widgets/templatic_browse_by_tag_widget.php
+----------------------------------------------------------------------------------------
+Improvement: Other performance related improvements in whole theme
+--------------------------------------------------------------------
+25th October 2013 (Version 2.0.1)
+------------------------------------------------------------------
+FIX: License Key Verification not working properly on some servers
+------------------------------------------------------------------

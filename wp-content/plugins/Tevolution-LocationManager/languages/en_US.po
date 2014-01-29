@@ -1,0 +1,1217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution - LocationManager v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-03 16:04+0530\n"
+"Last-Translator: directorydemo <upendra@templatic.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ tevolution_location
+#: bundle_box.php:20
+msgid "Tevolution Location Manager"
+msgstr ""
+
+# @ tevolution_location
+#: bundle_box.php:24
+msgid ""
+"A directory module from Templatic that helps you to enhance your website "
+"with some brilliant features like showing map, places, sorting places with "
+"the help of map etc. This feature gives you freedom and flexibility to add,"
+"sort and monitor your places from your back-end. "
+msgstr ""
+
+# @ tevolution_location
+#: bundle_box.php:29
+msgid "Activate &rarr;"
+msgstr ""
+
+# @ tevolution_location
+#: bundle_box.php:34
+msgid "Deactivate "
+msgstr ""
+
+# @ tevolution_location
+#: bundle_box.php:35 location-manager.php:150
+msgid "Settings"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:9
+msgid ""
+"It shows a Google map with custom post type checkbox selection specially "
+"designed for home page."
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:10
+msgid "T &rarr; Multi City Google Map - Home page"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:85
+#: functions/map/map-shortcodes/city_map_shortcode.php:130
+#: functions/map/map-shortcodes/current_city_map_shortcode.php:225
+msgid ""
+"<p>Your selected category do not have any records yet at your current "
+"location.</p>"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:89
+msgid "Title or Keyword"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:158
+#: functions/googlemap_listing_widget.php:326
+msgid ""
+"Map Height: <small>(Default is 500px. To change enter a numeric value.)</"
+"small>"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:166
+#: functions/googlemap_listing_widget.php:333
+msgid "Disable Clustering"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:301
+#: functions/googlemap_listing_widget.php:107
+#: functions/map/map-shortcodes/city_map_shortcode.php:315
+#: functions/map/map-shortcodes/current_city_map_shortcode.php:376
+#: functions/map/map-shortcodes/map-shortcodes.php:101
+msgid "review"
+msgstr ""
+
+# @ tevolution_location
+#: functions/google_map_widget.php:301
+#: functions/googlemap_listing_widget.php:107
+#: functions/map/map-shortcodes/city_map_shortcode.php:315
+#: functions/map/map-shortcodes/current_city_map_shortcode.php:376
+#: functions/map/map-shortcodes/map-shortcodes.php:101
+msgid "reviews"
+msgstr ""
+
+# @ tevolution_location
+#: functions/googlemap_listing_widget.php:4
+msgid ""
+"Google Map for Listing page. It will show you google map V3 for Listing page."
+msgstr ""
+
+# @ tevolution_location
+#: functions/googlemap_listing_widget.php:5
+msgid "T &rarr; Multi City Google Map - Listing page"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:9
+msgid "City Wise Logs"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:10
+msgid "Back to city logs"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:24 functions/manage_function.php:362
+msgid "City Logs"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:26
+msgid ""
+"Use this section to see how many times was each of your cities visited. This "
+"is useful in determining which is your most popular city."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:92 functions/location_city_logs.php:237
+#: functions/manage_locations.php:1265
+msgid "City Name"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:93 functions/manage_locations.php:675
+#: functions/manage_locations.php:1127
+msgid "State Name"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:94 functions/manage_locations.php:498
+#: functions/manage_locations.php:677 functions/manage_locations.php:1024
+msgid "Country Name"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:95
+msgid "Total Count"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:96
+msgid "Views"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:238
+msgid "IP Address"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_city_logs.php:239
+msgid "Counter"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:148
+msgid "Imported your MultiCity Csv file successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:187
+msgid "Drop MultiCity entries successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:200
+msgid "CSV City Import"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:203
+msgid ""
+"Directly upload all the content of your cities here and check under wp-admin "
+"-&gt; Tevolution -&gt; Manage Locations -&gt; Cities. This will help you "
+"reduce the manual work of adding each city individually.<br><strong>Tip:</"
+"strong> You can directly add/delete your cities their in csv file itself and "
+"then upload here, it will save your time."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:205
+msgid ""
+"If you want to import cities from GeoPlaces4 to Tevolution-LocationManager "
+"plugin with same City ID then"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:207
+msgid "Click Here"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:209
+msgid ""
+"to drop the current city entries and then import the city CSV exported from "
+"your GeoPlaces site here. "
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:210
+msgid "Upload your CSV file"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:214
+msgid "Import csv"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:216
+#, php-format
+msgid ""
+"Download the <a href=\"%s\">sample CSV file</a> to see the correct structure "
+"of the Multicity.csv file. To use bulk upload with custom fields simply add "
+"them as new columns inside your .csv file at last(at the end). "
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:223
+msgid "CSV City Export"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:226
+msgid ""
+"Directly download all the city from here and save it on your hard drive."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:227
+msgid "Export City CSV file"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:230
+msgid "Export TO csv"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:246
+msgid "Show pinpoint option"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:249
+msgid "Disable"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:251
+#, php-format
+msgid ""
+"Pinpoint button allows you to focus the map on a specific entry. It will "
+"only work with the map listing widget so make sure you uncheck \"Show Map "
+"View\" in <a href=\"%sadmin.php?page=googlemap_settings\" target= \"_blank"
+"\"> Map Settings </a>"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:255
+msgid "Pinpoint button activates on"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:257
+msgid "Mouse hover"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:258
+msgid "Click"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:274
+msgid "Enable distance-aware related posts for"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:285
+#, php-format
+msgid ""
+" No custom post type has been created at your site yet. Please <a href=\"?"
+"page=%s\"> create it </a> to list it here."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:289
+msgid ""
+"When this option is enabled, related posts will only show if within the "
+"distance you set below. The distance is relative to the post currently "
+"visited."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:293
+msgid "Set the distance"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:296
+msgid "1 mile"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:297
+msgid "5 miles"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:298
+msgid "10 miles"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:299
+msgid "100 miles"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:300
+msgid "1000 miles"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:301
+msgid "5000 miles"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:303
+msgid ""
+"Specify the distance from which related posts will be pulled. This option is "
+"functional only if you enabled distance-aware functionality for your post "
+"type."
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:342 functions/location_functions.php:345
+#: functions/manage_function.php:795 functions/manage_function.php:907
+#: functions/manage_function.php:1070
+msgid "Location"
+msgstr ""
+
+# @ tevolution_location
+#: functions/location_functions.php:436
+msgid "Select a city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:19 functions/manage_locations.php:174
+#: functions/manage_locations.php:851
+msgid "Default City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:330
+msgid "Location setting fields per page"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:343
+msgid "Locations"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:344
+msgid ""
+"Using this section you will be able to define country, states and cities "
+"which can then be used to filter content on your site. Posts, listings or "
+"events added for one city will not show for other cities."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:361 location-manager.php:161
+msgid "Manage Locations"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:388
+msgid "Multi City"
+msgstr ""
+
+# @ tevolution_location
+# @ default
+#: functions/manage_function.php:419 functions/manage_function.php:459
+#: functions/manage_function.php:462 functions/manage_function.php:556
+#: functions/manage_function.php:560 functions/manage_locations.php:1214
+msgid "Select Country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:423
+msgid "Please select country name"
+msgstr ""
+
+# @ tevolution_location
+# @ default
+#: functions/manage_function.php:428 functions/manage_function.php:478
+#: functions/manage_function.php:480 functions/manage_function.php:574
+#: functions/manage_function.php:577
+msgid "Select State"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:432
+msgid "Please select state name"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:437 functions/manage_function.php:500
+#: functions/manage_function.php:502 functions/manage_function.php:598
+msgid "Select City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:441
+msgid "Please select city name"
+msgstr ""
+
+# @ default
+#: functions/manage_function.php:595
+msgid "Select MultiCity"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:640 functions/manage_function.php:801
+#: functions/manage_function.php:913 functions/widget_functions.php:88
+msgid "All Countries"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:655 functions/manage_function.php:816
+#: functions/manage_function.php:927 functions/widget_functions.php:102
+msgid "All Regions"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:673 functions/manage_function.php:831
+#: functions/manage_function.php:942 functions/widget_functions.php:117
+msgid "All Cities"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:846 functions/manage_function.php:956
+#: functions/manage_function.php:998
+msgid "My Nearest City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:1072
+msgid "Loading..."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_function.php:1099
+msgid "Please wait, We are taking you to your nearest city."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:72
+msgid "Please select any post type."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:101
+msgid "Location of the city selection box"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:102
+msgid "Above header (dropdowns)"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:103
+msgid "Left edge of the site"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:104
+msgid "Above header (lists)"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:105
+msgid ""
+"Shows a location selection box on your site from where your users can select "
+"country/state/city."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:152
+msgid "Record updated successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:172
+msgid "Homepage Displays"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:175
+msgid "Ask To Show Nearest City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:176
+msgid "Nearest City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:177
+msgid ""
+"When this option is selected all visitors will be taken to the default city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:178
+msgid ""
+"When this option is selected all visitors will be taken to the city closest "
+"to them (without confirming it first)."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:179
+msgid ""
+"Upon visiting the site visitors will be asked whether they want to share "
+"their location. If they confirm they will be taken to the nearest city. If "
+"they refuse the default city will open."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:183
+msgid "Activate location management for"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:205
+msgid "Submit"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:229
+msgid "Countries"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:230
+msgid "States"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:231
+msgid "Cities"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:267
+msgid "Add a Country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:268 functions/manage_locations.php:275
+msgid "Back to countries list"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:274
+msgid "Edit Country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:281
+msgid "Manage Countries"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:282 functions/manage_locations.php:411
+msgid "Add a field for country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:282
+msgid "Add new country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:284
+msgid ""
+"Add and manage your country details from this section. To add new country, "
+"use above add link.<br> This section helps your user to select between all "
+"the countries available on your site."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:288
+msgid "Country created successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:290
+msgid "Country updated successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:292
+msgid "Country deleted  successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:294
+msgid "Country enable successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:296
+msgid "Country disable successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:331
+msgid "Add a State"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:332 functions/manage_locations.php:339
+msgid "Back to states list"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:338
+msgid "Edit State"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:346
+msgid "Manage States"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:347
+msgid "Add a field for state"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:347
+msgid "Add new State"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:349
+msgid ""
+"Add and manage your state details from this section. You can add new states "
+"using above add link.<br> These states will be listed in the dropdown "
+"according to the country selected by your user."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:352
+msgid "State created successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:354
+msgid "State updated successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:356
+msgid "State deleted  successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:392
+msgid "Add a city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:393 functions/manage_locations.php:401
+msgid "Back to city list"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:395
+msgid ""
+"Adequate information will lead to accurate results and map. So, please enter "
+"all information accordingly."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:400
+msgid "Edit city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:403
+msgid "For accurate results, please enter the adequate information."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:410
+msgid "Manage Cities"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:411
+msgid "Add new city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:413
+msgid ""
+"<b>Important note:</b> Cities will appear in front-end city selection box "
+"only after you add some listings/events to them. <br/><br/>"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:417
+msgid ""
+"City created successfully. Until you do not create any post for this "
+"particular city, it will not appear in a navigation strip for selection."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:419
+msgid "City updated successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:421
+msgid "City deleted  successfully."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:499
+msgid "Country Flag"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:500
+msgid "ISO Code2"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:501
+msgid "ISO Code3"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:503
+msgid "Active"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:504 functions/manage_locations.php:678
+#: functions/manage_locations.php:1057 functions/manage_locations.php:1389
+#: functions/manage_locations.php:1417
+msgid "Browse"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:676 functions/manage_locations.php:1133
+msgid "State Code"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:876
+msgid "City"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:877
+msgid "Located In"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:878
+msgid "Map Type"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:879 functions/manage_locations.php:1305
+msgid "Post Type"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:880 functions/manage_locations.php:1045
+msgid "Message"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:881
+msgid "Scaling Factor"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:948
+msgid "Delete"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:950
+msgid "City ID:"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:951
+msgid "Edit"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:953
+msgid "Set Default"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1027
+msgid "Write the country name."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1031
+msgid "ISO Code 2"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1034
+msgid ""
+"Write the two letter country code here <br>(e.g. \"US\" for United States of "
+"America. You can find these codes from <a href =\"http://en.wikipedia.org/"
+"wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1038
+msgid "ISO Code 3"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1041
+msgid ""
+"Write the three letter country code here <br>(e.g. \"USA\" for United States "
+"of America. You can find these codes from <a href =\"http://en.wikipedia.org/"
+"wiki/ISO_3166-1#Current_codes\" target=\"_blank\"> here </a> )"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1048
+msgid "Write the country message here to display it on your site."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1052
+msgid "Country flag"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1055 functions/manage_locations.php:1387
+#: functions/manage_locations.php:1415
+msgid "Or"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1059
+msgid ""
+"Upload flag image for above mentioned country. It will appear on your site "
+"along with the country name."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1064 functions/manage_locations.php:1141
+#: functions/manage_locations.php:1424
+msgid "Save all changes"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1114 functions/manage_locations.php:1210
+msgid "Country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1118
+msgid "Select Country Name"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1129
+msgid "Write the state name that falls in the above selected country"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1135
+msgid "Write the zone code of the above mentioned state"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1222
+msgid "State/region"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1225 functions/manage_locations.php:1466
+msgid "Select state"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1237
+msgid "Map type"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1239
+msgid "  Road Map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1240
+msgid "Terrain Map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1242
+msgid "Satellite Map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1244
+msgid "Hybrid  Map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1246
+msgid "Select any of the above type for your map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1251
+msgid "Map scaling factor"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1261
+msgid ""
+"Define the zoom level of the map here.<br/> Its Min. value is 1 and Max. "
+"Value is 19. The recommended level is 13"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1270
+msgid "Set Address on Map"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1287
+msgid "City latitude"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1291
+msgid "City longitude"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1295
+msgid "Map display"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1298
+msgid "According to Map Scaling factor"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1300
+msgid "Fit all available listings"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1301
+msgid ""
+"Select whether you want to display map as per Map scaling factor you have "
+"set above or adjust the scaling factor<br/> automatically so that all "
+"available listings appear on the map."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1321
+msgid ""
+"Selected post type will be displayed on home page map. <br> <b>Note:</b> "
+"Make sure about its category selection in the below given &quot;"
+"Categories&quot; option"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1326 functions/manage_locations.php:1576
+msgid "Categories"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1357
+msgid ""
+"Select the categories for which this field should appear in on the place or "
+"event submission form."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1361
+msgid "City Message"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1364
+msgid ""
+"Write a description of the city that you would like to display on your site."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1368
+msgid "Background Color"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1380
+msgid ""
+"choose a background color for this city. <br> <b>Tip:</b>You can define a "
+"color that represents the particular city to add an advantage to recognize "
+"the cities on your site."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1384
+msgid "Background Image"
+msgstr ""
+
+# @ templatic
+#: functions/manage_locations.php:1389 functions/manage_locations.php:1417
+msgid ""
+"<span style=\"color:red; font-weight:bold;\">NOTE:</span> Insert the image "
+"into post after uploading it."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1391
+msgid ""
+"Upload image to display it as a background image for this city. Ideal width "
+"size for it is <b>1900 pixels</b>."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1396
+msgid "Header Background Color"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1408
+msgid ""
+"choose a header background color for this city. <br> <b>Tip:</b>You can "
+"define a color that represents the particular city to add an advantage to "
+"recognize the cities on your site."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1412
+msgid "Header Upload Image"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1419
+msgid ""
+"Upload image to display it as a header background image for this city.Ideal "
+"width size for it is 1240 pixels and keep the height upto 240px."
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1478
+msgid "States not available"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1482 functions/manage_locations.php:1502
+msgid "Select city"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1513 functions/manage_locations.php:1532
+msgid "City not available"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1568
+msgid "Select All"
+msgstr ""
+
+# @ tevolution_location
+#: functions/manage_locations.php:1668
+#, php-format
+msgid "There is no categories in %s"
+msgstr ""
+
+# @ tevolution_location
+#: functions/map/locations_map.php:306
+msgid ""
+"Clicking the above \"Set Address on Map\" button, you can simply drag the "
+"pinpoint to locate the exact address on the map. "
+msgstr ""
+
+# @ tevolution_location
+#: functions/map/map-shortcodes/map-shortcodes.php:109
+msgid "Pinpoint"
+msgstr ""
+
+# @ tevolution_location
+#: functions/widget_functions.php:15
+msgid ""
+"Shows a dropdown list to select country, state and city. Recommended: Use "
+"only once in a page."
+msgstr ""
+
+# @ tevolution_location
+#: functions/widget_functions.php:16
+msgid "T &rarr; Multi City Options"
+msgstr ""
+
+# @ tevolution_location
+#: functions/widget_functions.php:20
+msgid "Multicity"
+msgstr ""
+
+# @ tevolution_location
+#: functions/widget_functions.php:148
+msgid "Widget Title"
+msgstr ""
+
+# @ tevolution_location
+#: location-manager.php:25
+msgid "System might facing the problem in include "
+msgstr ""
+
+# @ tevolution_location
+#: location-manager.php:76
+#, php-format
+msgid ""
+"You have not activated the base plugin %s. Please activate it to use "
+"Tevolution-LocationManager plugin."
+msgstr ""
+
+# @ tevolution_location
+#: location-manager.php:146
+msgid "Location Settings"
+msgstr ""
+
+# @ default
+#: templatic_login.php:4
+msgid "Tevolution Update"
+msgstr ""
+
+# @ tevolution_location
+#: templatic_login.php:78
+msgid ""
+"Templatic Login , enter your templatic credentials to take the updates of "
+"Tevolution-Location manager."
+msgstr ""
+
+# @ tevolution_location
+#: templatic_login.php:91
+msgid "Cancel"
+msgstr ""
+
+# @ tevolution_location
+#: wp-updates-plugin.php:45
+msgid "There is a new version of Tevolution-Location Manager plugin available "
+msgstr ""
+
+# @ tevolution_location
+#: wp-updates-plugin.php:50
+msgid ""
+" <a href=\"\" class=\"thickbox\" title=\"Templatic Event Manager Update"
+"\">update now</a>."
+msgstr ""
+
+# @ default
+#: wp-updates-plugin.php:93
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: wp-updates-plugin.php:97
+msgid "An unknown error occurred"
+msgstr ""

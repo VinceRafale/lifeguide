@@ -1,0 +1,3763 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Directory v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-03 17:51+0530\n"
+"Last-Translator: directorydemo <upendra@templatic.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ Directory
+#: 404.php:28
+msgid "Sorry, The page you're looking for cannot be found!"
+msgstr ""
+
+# @ Directory
+#: 404.php:29
+msgid ""
+"I can help you find the page you want to see, just help me with a few clicks "
+"please."
+msgstr ""
+
+# @ Directory
+#: attachment.php:35
+#, php-format
+msgid "Download \"%s\";"
+msgstr ""
+
+# @ Directory
+#: attachment.php:38 content.php:108 index.php:31
+#: page-templates/contact-us.php:126 page-templates/front-page.php:24
+#: page-templates/full-page-map.php:149 page.php:28 post.php:32
+#: singular.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ Directory
+#: attachment.php:39 content.php:109 index.php:32
+#: page-templates/front-page.php:25 page-templates/full-page-map.php:150
+#: page.php:29 post.php:34 singular.php:31
+msgid "Pages:"
+msgstr ""
+
+# @ Directory
+#: attachment.php:44
+msgid "Gallery"
+msgstr ""
+
+# @ Directory
+#: comment.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ Directory
+#: comments.php:13
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+# @ Directory
+#: comments.php:30
+msgid "No Comment"
+msgstr ""
+
+# @ Directory
+#: comments.php:30
+msgid "One Comment"
+msgstr ""
+
+# @ Directory
+#: comments.php:30
+msgid "% Comments"
+msgstr ""
+
+# @ Directory
+#: comments.php:34
+msgid "No Review"
+msgstr ""
+
+# @ Directory
+#: comments.php:34
+msgid "One Review"
+msgstr ""
+
+# @ Directory
+#: comments.php:34
+msgid "% Reviews"
+msgstr ""
+
+# @ Directory
+#: comments.php:39
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+# @ Directory
+#: comments.php:51
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+# @ Directory
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+# @ Directory
+#: content-audio.php:2 content-gallery.php:1 content-image.php:35
+#: content-link.php:2 content-video.php:16 content.php:74
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+# @ Directory
+#: content.php:16
+msgid "Featured post"
+msgstr ""
+
+# @ Directory
+#: content.php:29 content.php:62 library/functions/widgets.php:3502
+#: library/functions/widgets.php:4464
+msgid "Featured"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install.php:24
+msgid ""
+" <a id=\"templatic_plugin\" href=\"\" style=\"color:#21759B\">Tevolution</a>"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install.php:28
+msgid " and "
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install.php:29
+msgid ""
+"<a id=\"booking_plugin\" href=\"\" style=\"color:#21759B\">Tevolution - "
+"Directory</a>"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:453
+msgid "About Directory"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:495
+msgid "Get Latest Updates"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:496
+msgid " Subscribe to get our latest news"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:524
+#: functions/auto_install/auto_install_data.php:868
+msgid "Browse Listings By Categories"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:566
+msgid "Places Around You"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:567
+#: functions/auto_install/auto_install_data.php:611
+msgid "View All"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:610
+msgid "Hotels Around You"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:636
+msgid "Latest News"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:649
+#: library/functions/widgets.php:4358 library/functions/widgets.php:4523
+msgid "[Read More...]"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:709
+msgid "Featured Video"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:729
+msgid "Popular Listing"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:756
+#: functions/auto_install/auto_install_data.php:847
+msgid "Search Near By Listing"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:778
+msgid "Filter Listings By Miles"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:799
+msgid "Browse Listings By Category"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:822
+msgid "Nearest Listing"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:913
+#: functions/auto_install/auto_install_data.php:1031
+msgid "Art Gallery"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:933
+#: functions/auto_install/auto_install_data.php:1050
+#: functions/theme-functions.php:371 functions/theme-functions.php:375
+#: library/functions/widgets.php:1812 library/functions/widgets.php:1884
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:953
+#: functions/auto_install/auto_install_data.php:1070
+msgid "Find By Categories"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:972
+#: functions/auto_install/auto_install_data.php:1089
+msgid "Browse by pages"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1008
+#: functions/auto_install/auto_install_data.php:1124
+msgid "Who we are?"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1009
+#: functions/auto_install/auto_install_data.php:1125
+msgid ""
+"Templatic.com is a website completely dedicated to selling and supporting "
+"Premium WordPress themes. We don't offer custom work or any hosting "
+"services, we do one thing, and do it well. If you're looking to create an "
+"awesome site using WordPress, you've come to the right place! What sets us "
+"apart from other awesome theme companies (you're probably wondering)?"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1148
+msgid "Become An Agent"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1149
+msgid ""
+"You can become an agent by submitting a listing on our site. <a href="
+"\"http://templatic.com/\">List your business</a> on our site and get access "
+"to thousands of visitors we get everyday. You will be able to reach out to "
+"<strong>more people and that means more business</strong>."
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1168
+msgid "Dashboard"
+msgstr ""
+
+# @ Directory
+#: functions/auto_install/auto_install_data.php:1188
+msgid "Top Authors"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:33
+#: functions/auto_install/auto_install_xml.php:63
+#: functions/auto_install/auto_install_xml.php:71
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:34
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:75
+#: functions/auto_install/auto_install_xml.php:80
+#: functions/auto_install/auto_install_xml.php:270
+#: functions/auto_install/auto_install_xml.php:459
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:766
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:780
+msgid "Import author:"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:789
+msgid "or create new user with login name:"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:792
+msgid "as a new user:"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:799
+msgid "assign posts to an existing user:"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:801
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:802
+msgid "- Select -"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:843
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:1137
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+# @ wordpress-importer
+#: functions/auto_install/auto_install_xml.php:1195
+msgid "Invalid file type"
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:7
+msgctxt "sidebar"
+msgid "2 Column Content - Home Page"
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:8
+msgid "Display widgets in two column on home page."
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:11
+msgctxt "sidebar"
+msgid "Footer Left"
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:12
+msgid "Display widgets in footer left."
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:15
+msgctxt "sidebar"
+msgid "Footer Right"
+msgstr ""
+
+# @ Directory
+#: functions/childtheme-functions.php:16
+msgid "Display widgets in footer right."
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:208
+msgid "First Page"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:209
+msgid "Last Page"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:210 library/functions/functions.php:734
+#: library/functions/functions.php:737
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:211 library/functions/functions.php:733
+#: library/functions/functions.php:737 library/functions/functions.php:738
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:336
+msgid "Default page view"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:340
+msgid "Grid"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:345 library/functions/widgets.php:609
+#: library/functions/widgets.php:1208 library/functions/widgets.php:2057
+msgid "List"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:351
+msgid "Map"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:363
+msgid ""
+"<div id='message' class='updated below-h2'><p>Use WordPress Importer if you "
+"are using XML file given with the Tevolution-Directory plugin.</p></div>"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:372
+msgid "Address"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:414
+msgid "Categorywise Map Markers"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:416
+msgid ""
+"Enable the option to assign different map markers to different categories of "
+"this post type"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:483 functions/theme-functions.php:519
+msgid "Map Marker"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:486
+msgid "Or"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:488
+msgid "Browse"
+msgstr ""
+
+# @ Directory
+#: functions/theme-functions.php:489
+msgid ""
+"It will appear on the homepage Google map for listings placed in this "
+"category. "
+msgstr ""
+
+# @ Directory
+#: functions.php:533 functions.php:551
+msgid "To"
+msgstr ""
+
+# @ Directory
+#: functions.php:578
+msgid "Review"
+msgstr ""
+
+# @ Directory
+#: functions.php:596
+msgid "Post Review"
+msgstr ""
+
+# @ Directory
+#: header.php:81 header.php:92 library/functions/functions.php:1170
+#: library/functions/menus.php:54 library/functions/menus.php:80
+#: library/functions/menus.php:105 library/functions/menus.php:145
+#: page-templates/full-page-map.php:83
+msgid "Menu"
+msgstr ""
+
+# @ Directory
+#: index.php:45
+msgid "No Entries"
+msgstr ""
+
+# @ Directory
+#: index.php:47
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:117 library/admin/admin.php:141
+msgid "Footer"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:227
+msgid "You do not have sufficient permissions to access this section."
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:251
+msgid "Colors Settings"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:255
+msgid "Background Settings"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:439
+msgid " Upload image for logo"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:451
+msgid " Upload favicon icon"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:464
+msgid "Hide Site Description"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:473
+msgid "Footer Text ( e.g. <p class=\"copyright\">&copy;"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:473
+msgid ""
+"<a href=\"http://templatic.com/demos/responsive\">Responsive</a>. All Rights "
+"Reserved. </p>)"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:488
+msgid "Change Body background color"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:495
+msgid "Change Primary and Secondary navigation, Footer, background color"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:502
+msgid "Change Text color of content area"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:509
+msgid ""
+"Change Categories Links, Navigation Links, Footer Links hover and Sub text "
+"of page color"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:516
+msgid "Change Meta text, Breadcrumb, Pagination text and All grey color text"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:523
+msgid "Change Buttons, Date and recurrences label Color"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:535
+msgid "Texture Overlays"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:541
+msgid "OR Enter Your Custom Texture"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:556
+msgid ""
+"Display Header Image ( Go in Appearance -> Header to set/change the image )"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:572
+msgid "Display Header Text"
+msgstr ""
+
+# @ Directory
+#: library/admin/admin.php:779 library/functions/widgets.php:609
+#: library/functions/widgets.php:1208
+msgid "None"
+msgstr ""
+
+# @ Directory
+#: library/admin/meta-boxes.php:43
+msgid "No templates exist for this post type."
+msgstr ""
+
+# @ Directory
+#: library/admin/meta-boxes.php:99
+msgid "Document Title"
+msgstr ""
+
+# @ Directory
+#: library/admin/meta-boxes.php:106
+msgid "Meta Description"
+msgstr ""
+
+# @ Directory
+#: library/admin/meta-boxes.php:113
+msgid "Meta Keywords"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:22 library/auto_update.php:31
+msgid "Theme Update"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:25 library/auto_update.php:33
+msgid "Get Support"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:27 library/auto_update.php:35
+msgid "Browse Other Themes"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:47
+msgid "Need Help?"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:48
+msgid ""
+"Here's how you can get help from templatic on any thing you need with "
+"regarding this theme."
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:50
+msgid "Take a look at theme guide"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:51
+msgid "Knowlegebase"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:52
+msgid "Explore our community forums"
+msgstr ""
+
+# @ Directory
+#: library/auto_update.php:53
+msgid "Create a support ticket in Helpdesk"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:9
+msgid ""
+"Shows a box with resizable style helpful to show your facebook fans on your "
+"site."
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:10
+msgid "T &rarr; Facebook Fans"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:60
+msgid "Facebook Page Full URL"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:67
+msgid "Width"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:74
+msgid "Show Faces"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:78 library/classes/facebook.php:92
+#: library/classes/facebook.php:106 library/functions/widgets.php:3657
+msgid "Yes"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:81 library/classes/facebook.php:95
+#: library/classes/facebook.php:109 library/functions/widgets.php:3662
+msgid "No"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:88
+msgid "Show Stream"
+msgstr ""
+
+# @ Directory
+#: library/classes/facebook.php:102
+msgid "Show Header"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:19 library/functions/widgets.php:196
+#: library/functions/widgets.php:451 library/functions/widgets.php:573
+#: library/functions/widgets.php:804 library/functions/widgets.php:1067
+#: library/functions/widgets.php:1216 library/functions/widgets.php:1457
+#: library/functions/widgets.php:1661 library/functions/widgets.php:1895
+#: library/functions/widgets.php:2065 library/functions/widgets.php:2749
+#: library/functions/widgets.php:4537
+msgid "Title:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:24
+msgid "Twitter Username:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:29
+msgid "Consumer Key:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:34
+msgid "Consumer Secret:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:39
+msgid "Access Token:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:44
+msgid "Access Token Secret:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:49
+msgid "Number Of Tweets:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:54
+msgid ""
+"Twitter button text <small>(for eg. Follow us, Join me on Twitter, etc.)</"
+"small>:"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:60
+msgid "Show your latest tweets on your site."
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:62
+msgid "T &rarr; Latest Twitter Feeds"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:74 library/classes/twitter.php:115
+msgid "Follow Us"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:83
+msgid "cURL is NOT installed on this server"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:108
+msgid "Latest Tweets"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:117
+msgid ""
+"<p><span style=\"font-size:11px\">To use this widget, <a href=\"https://dev."
+"twitter.com/apps/new\" style=\"text-decoration:none;\" target=\"_blank"
+"\">create</a> an application or <a href=\"https://dev.twitter.com/apps\" "
+"target=\"_blank\" style=\"text-decoration:none;\" >click here</a> if you "
+"already have it, and fill required fields below. Need help? Read <a href="
+"\"http://templatic.com/docs/latest-changes-in-twitter-widget-for-all-"
+"templatic-themes/\" title=\"Tweeter Widget Guide\" target=\"_blank\" style="
+"\"text-decoration:none;\" >Twitter Guide</a>.</small></p>"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:141
+msgid "0 seconds"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:144 library/functions/loadpopularpost.php:83
+msgid "year"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:145 library/functions/loadpopularpost.php:81
+msgid "month"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:146 library/functions/loadpopularpost.php:77
+msgid "day"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:147
+msgid "hour"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:148
+msgid "minute"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:149
+msgid "second"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:156
+msgid " s"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:156 library/functions/loadpopularpost.php:132
+msgid "ago"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:181
+msgid "No public tweets"
+msgstr ""
+
+# @ Directory
+#: library/classes/twitter.php:185
+#, php-format
+msgid "Unable to get tweets %s"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:42
+msgid "Home"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:235
+#: library/functions/context.php:357
+msgid "g:i a"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:237
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:237
+#: library/functions/context.php:359
+msgid "i"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:239
+#: library/functions/context.php:361
+msgid "g a"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:247
+#: library/extensions/breadcrumb-trail.php:252
+#: library/extensions/breadcrumb-trail.php:256
+#: library/extensions/breadcrumb-trail.php:260
+#: library/extensions/breadcrumb-trail.php:309
+#: library/functions/context.php:365 library/functions/context.php:369
+#: library/functions/core-seo.php:75 library/functions/shortcodes.php:76
+msgid "Y"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:248
+#: library/extensions/breadcrumb-trail.php:257
+#: library/extensions/breadcrumb-trail.php:312
+msgid "F"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:249
+#: library/extensions/breadcrumb-trail.php:315
+msgid "d"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:253
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:253
+#: library/functions/context.php:365
+msgid "W"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:266
+#: library/functions/context.php:378
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:269
+#: library/functions/context.php:381
+msgid "404 Not Found"
+msgstr ""
+
+# @ breadcrumb-trail
+# @ Directory
+#: library/extensions/breadcrumb-trail.php:312
+#: library/functions/core-seo.php:72
+msgid "F Y"
+msgstr ""
+
+# @ breadcrumb-trail
+#: library/extensions/breadcrumb-trail.php:315
+msgid "F j, Y"
+msgstr ""
+
+# @ Directory
+#: library/extensions/post-stylesheets.php:153
+msgid "Stylesheet"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:238
+#: library/functions/functions.php:1257
+msgid "Default"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:239
+#: library/functions/functions.php:1258
+#: library/functions/theme_options.php:103
+msgid "One Column"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:240
+#: library/functions/functions.php:1259
+#: library/functions/theme_options.php:106
+msgid "Two Columns, Left"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:241
+#: library/functions/functions.php:1260
+#: library/functions/theme_options.php:109
+msgid "Two Columns, Right"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:242
+#: library/functions/functions.php:1262
+msgid "Three Columns, Left"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:243
+#: library/functions/functions.php:1263
+msgid "Three Columns, Right"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:244
+#: library/functions/functions.php:1261
+msgid "Three Columns, Center"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:308
+#: library/extensions/theme-layouts.php:402
+msgid "Layout"
+msgstr ""
+
+# @ Directory
+#: library/extensions/theme-layouts.php:330
+msgid "Layout is a theme-specific structure for the single view of the post."
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:152
+msgid "*"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:156 library/functions/widgets.php:797
+#: library/functions/widgets.php:799 library/functions/widgets.php:1210
+#: library/functions/widgets.php:2059 library/functions/widgets.php:2690
+#: library/functions/widgets.php:2717 library/functions/widgets.php:3990
+#: page-templates/contact-us.php:33 page-templates/contact-us.php:169
+msgid "Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:157 library/functions/widgets.php:568
+#: library/functions/widgets.php:3991 library/functions/widgets.php:4251
+#: page-templates/contact-us.php:34 page-templates/contact-us.php:174
+msgid "Email"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:158
+msgid "Website"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:170
+#: library/functions/loadpopularpost.php:114
+msgid "Comment"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:171
+#, php-format
+msgid ""
+"You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a "
+"comment."
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:172
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:172
+msgid "Log out of this account"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:172
+msgid "Log out &raquo;"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:177
+msgid "Leave a Reply"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:177
+msgid "Add a Review"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:178
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:178
+#, php-format
+msgid "Add a Review to %s"
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:179
+msgid "Click here to cancel reply."
+msgstr ""
+
+# @ Directory
+#: library/functions/comments.php:180
+msgid "Post Comment"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:357 library/functions/context.php:361
+#: library/functions/context.php:363 library/functions/context.php:367
+#: library/functions/context.php:369
+#, php-format
+msgid "Archive for %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:359
+#, php-format
+msgid "Archive for minute %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:363
+msgid "F jS, Y"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:365
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:373 library/functions/widgets.php:249
+#: library/functions/widgets.php:330 loop-meta.php:217
+msgid "Archives"
+msgstr ""
+
+# @ Directory
+#: library/functions/context.php:384
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/core-seo.php:77
+#, php-format
+msgid "Copyright (c) %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/core-seo.php:92 library/functions/hooks.php:38
+#: library/functions/shortcodes.php:161
+msgid "l, F jS, Y, g:i a"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:17 library/functions/functions.php:19
+msgid ", "
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:33
+#, php-format
+msgid "Posted in %1$s and tagged %2$s."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:35
+#, php-format
+msgid "Posted in %1$s."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:354 library/functions/functions.php:357
+msgid "Copyright &#169; [the-year] [site-link]."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:354
+msgid "Powered by [wp-link], [theme-link], and [child-link]."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:357
+msgid "Powered by [wp-link] and [theme-link]."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:389
+#, php-format
+msgid ""
+"[entry-terms taxonomy=\"%s\" before=\"%s\"] [entry-terms taxonomy=\"%s\" "
+"before=\"%s\"]"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:670
+msgid "Read More &raquo;"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:728
+msgid "<span class=\"meta-nav\">&larr;</span> Return to entry"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:738
+msgid "Next &rarr;"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:801
+msgid "Read more &raquo;"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1006
+msgid "time"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1008
+msgid "times"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1012
+msgid "Visit"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1014
+msgid "Visits"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1016
+msgid "Visited"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1016
+#, php-format
+msgid " %s"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1017
+msgid "today"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1264
+msgid "Header Left One Column"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1265
+msgid "Header Left Two Columns, Left"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1266
+msgid "Header Left Two Columns, Right"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1267
+msgid "Header Right One Column"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1268
+msgid "Header Right Two Columns, Left"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1269
+msgid "Header Right Two Columns, Right"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1599
+msgid "Facebook Share."
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1610
+msgid "Tweet"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1618
+msgid "Pin It"
+msgstr ""
+
+# @ Directory
+#: library/functions/functions.php:1797 library/functions/theme_options.php:63
+#: library/functions/theme_options.php:79
+msgid "Theme Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:30 library/functions/shortcodes.php:218
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:30 library/functions/shortcodes.php:218
+#: library/functions/widgets.php:2056
+msgid "Edit"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:37
+msgid "On"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:47
+msgid "Leave a response"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:47
+#, php-format
+msgid "%1$s Response"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:47
+#, php-format
+msgid "%1$s Responses"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:53 library/functions/hooks.php:55
+#: library/functions/hooks.php:57
+#, php-format
+msgid "Comment on %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:66
+msgid "Published by"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:84
+msgid "(Untitled)"
+msgstr ""
+
+# @ Directory
+#: library/functions/hooks.php:98 library/functions/shortcodes.php:202
+msgid "Permalink"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:73
+msgid "min"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:74
+msgid "mins"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:75
+#: library/functions/loadpopularpost.php:76
+msgid "hours"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:78
+msgid "days"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:79
+msgid "week"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:80
+msgid "weeks"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:82
+msgid "months"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:84
+msgid "years"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:116
+msgid "Comments"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:136
+msgid "view"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:136
+msgid "views"
+msgstr ""
+
+# @ Directory
+#: library/functions/loadpopularpost.php:145
+msgid "No Popular post fond."
+msgstr ""
+
+# @ Directory
+#: library/functions/menus.php:33
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr ""
+
+# @ Directory
+#: library/functions/menus.php:36
+msgctxt "nav menu location"
+msgid "Secondary"
+msgstr ""
+
+# @ Directory
+#: library/functions/menus.php:39
+msgctxt "nav menu location"
+msgid "Subsidiary"
+msgstr ""
+
+# @ Directory
+#: library/functions/menus.php:41
+msgctxt "nav menu location"
+msgid "Footer"
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:64
+msgid "Templatic News"
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:82
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:126
+msgid "More..."
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:129
+msgid "Need support?"
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:130
+msgid "Custom services"
+msgstr ""
+
+# @ Directory
+#: library/functions/meta.php:131
+msgid "Join our theme club"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:97
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:97
+msgid "WordPress"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:109
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:129
+msgid "Log out"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:131
+msgid "Log in"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:144
+#, php-format
+msgid "This page loaded in %1$s seconds with %2$s database queries."
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:161
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:202
+#, php-format
+msgid "Permalink to comment %1$s"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:233
+msgid "Reply"
+msgstr ""
+
+# @ Directory
+#: library/functions/shortcodes.php:234
+msgid "Log in to reply."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:53
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:55
+msgid ""
+"This sidebar is specially for woocommerce product pages, whichever widgets "
+"you drop here will be shown in woocommerce product pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:82
+msgctxt "sidebar"
+msgid "Header"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:83
+msgid ""
+"The area is located on the right side of your header (between primary and "
+"secondary navigation)."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:86
+msgctxt "sidebar"
+msgid "Secondary Navigation"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:87
+msgid ""
+"Widgets placed inside this area will appear on the right side of your "
+"secondary navigation bar (the one below the logo). The simple \"Search\" "
+"widget works best here."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:90
+msgctxt "sidebar"
+msgid "Homepage Slider"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:91
+msgid ""
+"This area usually displays the big slider or the map. It's located between "
+"the header and the Homepage - Main Content area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:95
+msgctxt "sidebar"
+msgid "Homepage - Main Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:96
+msgid ""
+"This area appears alongside the homepage sidebar. It&#39;s located between "
+"the homepage slider and subsidiary areas."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:99
+msgctxt "sidebar"
+msgid "Homepage Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:100
+msgid ""
+"The area is located below the homepage slider and above subsidiary areas. It "
+"shows alongside Homepage - Main Content area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:105
+msgctxt "sidebar"
+msgid "Post Category Page Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:106
+msgid ""
+"This sidebar will show on category pages for the built-in WordPress Posts."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:110
+msgctxt "sidebar"
+msgid "Post Detail Page Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:111
+msgid "This sidebar will show on detail (single) Post pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:115
+msgctxt "sidebar"
+msgid "All Pages - Below Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:116
+msgid ""
+"The widget area is located below the main content on all pages. For example, "
+"on detail pages you'll find it below the comments and related posts."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:119
+msgctxt "sidebar"
+msgid "All Page - Above Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:120
+msgid ""
+"The widget area is located above the main content on all pages. For example, "
+"on detail pages you'll find it above the title."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:123
+msgctxt "sidebar"
+msgid "Detail Pages - Below Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:124
+msgid "The area shows below the main content on WordPress Posts and Pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:127
+msgctxt "sidebar"
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:128
+msgid ""
+"This sidebar will show on pages that do not have a unique sidebar area "
+"assigned to them. It&#39;s essentially a backup sidebar.."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:131
+msgctxt "sidebar"
+msgid "Post Detail Page - Before Description"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:132
+msgid "Display widgets between the title and description on detail Post pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:136
+msgctxt "sidebar"
+msgid "Subsidiary - 1 Column"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:137
+msgid ""
+"Displays widgets in a single column on all pages. The area shows below the "
+"main content area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:140
+msgctxt "sidebar"
+msgid "Subsidiary - 2 Column"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:141
+msgid ""
+"Displays widgets in 2 columns on all pages. The area shows below the main "
+"content area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:145
+msgctxt "sidebar"
+msgid "Subsidiary - 3 Column"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:146
+msgid ""
+"Displays widgets in 3 columns on all pages. The area shows below the main "
+"content area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:149
+msgctxt "sidebar"
+msgid "After Header"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:150
+msgid "A 1-column widget area loaded after the header of the site."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:153
+msgctxt "sidebar"
+msgid "Contact Page - Main Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:154
+msgid ""
+"The area displays widgets above the contact form on the contact page. Use "
+"the \"Contact Us\" template to create a contact page."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:158
+msgctxt "sidebar"
+msgid "Contact Page Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:159
+msgid "Display widgets inside the Contact page sidebar area."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:162
+msgctxt "sidebar"
+msgid "Author Page Sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:163
+msgid ""
+"This sidebar will show on individual author pages. To visit your author page "
+"visit a URL like this one: your-domain.com/author/your-username."
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:166
+msgctxt "sidebar"
+msgid "Footer"
+msgstr ""
+
+# @ Directory
+#: library/functions/sidebars.php:167
+msgid "Displays widgets below the subsidiary area."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:67
+#: library/functions/theme_options.php:90
+msgid "General Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:70
+msgid "Category/Tag Archive Page Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:73
+msgid "Comments Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:81
+msgid "saved"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:95
+msgid "Global layout"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:100
+msgid "Default Layout"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:114
+msgid ""
+"This setting can be overwritten by layout settings within individual posts/"
+"pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:119
+msgid "Show the \"Load widgets automatically\" button"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:123
+msgid "Disable"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:126
+msgid ""
+"Disabling this will hide the entire yellow box that appears above the active "
+"theme inside Appearance &rsaquo;&rsaquo; Themes section."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:132
+msgid "Use custom.css"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:137
+#: library/functions/theme_options.php:151
+#: library/functions/theme_options.php:165
+#: library/functions/theme_options.php:179
+#: library/functions/theme_options.php:193
+msgid "Enable"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:141
+#, php-format
+msgid ""
+"Custom.css is used for quick design tweaks. You can modify it from the %s "
+"theme editor section. For more details on custom.css read %s this article."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:146
+msgid "Show sticky header"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:155
+msgid ""
+"Sticky header is a persistent navigation bar that continues to show even "
+"when you scroll down the page."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:160
+msgid "Show author bio on WordPress pages"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:169
+msgid ""
+"If enabled, a small box with the authors name, avatar and description will "
+"be shown below regular WordPress pages."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:174
+msgid "Show author bio on WordPress posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:183
+msgid ""
+"If enabled, a small box with the authors name, avatar and description will "
+"be shown below regular WordPress posts."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:188
+msgid "Show breadcrumbs"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:199
+msgid "Contact page options"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:204
+msgid "Enable the inquiry form on the contact page"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:209
+msgid "Enable captcha on the contact page"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:213
+msgid ""
+"Use the \"Contact Us\" page template to create a contact page. For captcha "
+"to work you must install the  <a href=\"http://wordpress.org/plugins/wp-"
+"recaptcha/\">WP-reCAPTCHA plugin</a>."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:218
+msgid "Categories for the 404 page"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:238
+msgid "Enter comma separated post type slugs that you want displayed."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:240
+msgid " Available slugs: "
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:245
+msgid "Google Analytics tracking code"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:251
+msgid ""
+"Enter the analytics code you received from GA or some other analytics "
+"software. e.g. <a href='https://www.google.co.in/analytics/'>Google "
+"Analytics</a>"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:257
+msgid "Category page settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:263
+msgid "Category page display options"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:268
+msgid "Show thumbnail on archive pages"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:273
+msgid ""
+"Show <em>no-image-available</em> thumbnail when there is no image uploaded "
+"in a particular post"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:278
+msgid "Show author name with a link to his profile for all posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:283
+msgid "Show published date of all posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:288
+msgid "Show selected categories and tags of individual posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:293
+msgid ""
+"Show number of comments for all posts with a link to comments section on "
+"post detail page"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:298
+msgid ""
+"Show post <a href='http://codex.wordpress.org/Excerpt'>excerpt</a> instead "
+"of full text"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:305
+msgid "Excerpt length"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:312
+msgid ""
+"Enter the number of characters that should be displayed from your post "
+"description. This option can be overwritten by entering the actual excerpt "
+"for the post."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:317
+msgid "Read more link name"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:323
+msgid "Default link name is \"Read More\"."
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:329
+msgid "Comments settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:335
+msgid "Comment display options"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:340
+msgid "Show comments on WordPress pages"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:345
+msgid "Show comments on posts (includes custom post types that you created)"
+msgstr ""
+
+# @ Directory
+#: library/functions/theme_options.php:351
+msgid "Save All Settings"
+msgstr ""
+
+# @ default
+#: library/functions/tlogin.php:5
+msgid "Supreme Update"
+msgstr ""
+
+# @ Directory
+#: library/functions/tlogin.php:76 library/functions/widgets.php:167
+#: library/functions/widgets.php:2466 library/functions/widgets.php:2468
+#: library/functions/widgets.php:3380 library/functions/widgets.php:3976
+#: library/templatic_login.php:102
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ Directory
+#: library/functions/tlogin.php:83
+msgid ""
+"Templatic Login , enter your templatic credentials to take the updates of "
+"supreme."
+msgstr ""
+
+# @ Directory
+#: library/functions/tlogin.php:89 library/templatic_login.php:112
+msgid "User Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/tlogin.php:95 library/templatic_login.php:118
+msgid "Password"
+msgstr ""
+
+# @ Directory
+#: library/functions/tlogin.php:102 library/templatic_login.php:125
+msgid "Cancel"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:85
+msgid ""
+"Use this widget to display ads by pasting HTML, JavaScript or IFrame code."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:86
+msgid "T &rarr; Advertisements"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:119 library/functions/widgets.php:347
+#: library/functions/widgets.php:1654 library/functions/widgets.php:2356
+#: library/functions/widgets.php:2499 library/functions/widgets.php:2909
+#: library/functions/widgets.php:4614 library/functions/widgets.php:4902
+msgid "Title"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:126
+msgid ""
+"Advertisement code <small>(ex.&lt;a href=\"#\"&gt;&lt;img src=\"http://"
+"templatic.com/banner.png\" /&gt;&lt;/a&gt; and google ads code here )</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:145
+msgid ""
+"Display your desired number of photos from Flickr by simply adding your "
+"Flickr Id."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:146
+msgid "T &rarr; Flickr Photos"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:152 library/functions/widgets.php:192
+msgid "Photos From Flickr"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:153 library/functions/widgets.php:192
+msgid "The Beautiful Natural Scenery Photos"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:202 library/functions/widgets.php:457
+msgid "Description:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:208
+msgid "Flickr ID:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:215
+msgid "Number of photos:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:240
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"archives."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:278
+msgid "Select Year"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:280
+msgid "Select Month"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:282
+msgid "Select Week"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:284
+msgid "Select Day"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:286
+msgid "Select Post"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Alphabetical"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Daily"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Monthly"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Post By Post"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Weekly"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:341
+msgid "Yearly"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:343
+msgid "Custom"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:343
+msgid "HTML"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:343
+msgid "Option"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:390 library/functions/widgets.php:636
+msgid "Show post count?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:406
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:407
+msgid "Text"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:481
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"author lists."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:490 library/functions/widgets.php:552
+msgid "Authors"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:567 library/functions/widgets.php:796
+#: library/functions/widgets.php:798 library/functions/widgets.php:1209
+#: library/functions/widgets.php:1653 library/functions/widgets.php:2058
+msgid "Ascending"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:567 library/functions/widgets.php:796
+#: library/functions/widgets.php:798 library/functions/widgets.php:1209
+#: library/functions/widgets.php:1653 library/functions/widgets.php:2058
+msgid "Descending"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568
+msgid "Display Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568 library/functions/widgets.php:797
+#: library/functions/widgets.php:799 library/functions/widgets.php:1210
+#: library/functions/widgets.php:1654 library/functions/widgets.php:4617
+msgid "ID"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568
+msgid "Nice Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568
+msgid "Post Count"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568
+msgid "Registered"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568 library/functions/widgets.php:799
+msgid "URL"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:568
+msgid "Login"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:630
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:642
+msgid "Exclude admin?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:648
+msgid "Show full name?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:654 library/functions/widgets.php:1345
+#: library/functions/widgets.php:2202
+msgid "Hide empty?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:678
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"bookmarks (links)."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:687 library/functions/widgets.php:717
+#: library/functions/widgets.php:768
+msgid "Bookmarks"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:797 library/functions/widgets.php:1210
+#: library/functions/widgets.php:2059
+msgid "Count"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:797 library/functions/widgets.php:1210
+#: library/functions/widgets.php:1654
+msgid "Slug"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799 library/functions/widgets.php:2506
+msgid "Description"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Length"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Notes"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Owner"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799 library/functions/widgets.php:2058
+#: library/functions/widgets.php:4623
+msgid "Random"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Rating"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Rel"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799 library/functions/widgets.php:1211
+msgid "RSS"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Target"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:799
+msgid "Updated"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:935
+msgid "Categorize?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:941
+msgid "Show description?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:947
+msgid "Hide invisible?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:953
+msgid "Show rating?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:959
+msgid "Show updated?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:965
+msgid "Show images?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:971
+msgid "Show name?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:977
+msgid "Show private?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1003
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"calendar."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1012 library/functions/widgets.php:1059
+msgid "Calendar"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1074
+msgid "One-letter abbreviation?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1076
+msgid "initial"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1099
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"category links."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1108 library/functions/widgets.php:1182
+msgid "Categories"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1210
+msgid "Term Group"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1211
+msgid "Atom"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1211
+msgid "RDF"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1211
+msgid "RSS 2.0"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1327 library/functions/widgets.php:1780
+msgid "Hierarchical?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1333
+msgid "Use description?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1339
+msgid "Show count?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1371
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"menus."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1380
+msgid "Navigation Menu"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1435
+msgid "Navigation"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1553
+msgid ""
+"An advanced widget that gives you total control over the output of your page "
+"links."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1562 library/functions/widgets.php:1630
+msgid "Pages"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1654
+msgid "Author"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1654 library/functions/widgets.php:4611
+msgid "Date"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1654
+msgid "Menu Order"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1654 library/functions/widgets.php:1655
+msgid "Modified"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1655
+msgid "Created"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1806
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"search form."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1901
+msgid "Search Label:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1907
+msgid "Search Text:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1915
+msgid "Search Submit:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1922
+msgid "Use theme's <code>searchform.php</code>?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1946
+msgid ""
+"An advanced widget that gives you total control over the output of your tags."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:1955 library/functions/widgets.php:2030
+msgid "Tags"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2056
+msgid "View"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2057
+msgid "Flat"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2196
+msgid "Pad counts?"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2220
+msgid ""
+"Display a map of a specific location. Use in: Footer area, Homepage Content "
+"area, Primary, Subsidiary areas, Contact Page Widget area"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2233
+msgid "T &rarr; Google Map Widget"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2242 library/functions/widgets.php:2344
+msgid "Find Us On Map"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2363
+msgid ""
+"Address: <small>(eg: 230 Vine Street And locations throughout Old City, "
+"Philadelphia, PA 19106)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2369
+msgid ""
+"Map Height in pixcels: <small>(To change, only enter a numeric value)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2375
+msgid "Map Zoom Factor"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2392
+msgid "Select Map Type"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2398
+msgid "Road Map"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2403
+msgid "Satellite Map"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2422
+msgid ""
+"Provides a link to your account on various social media sites. Use in: "
+"Sidebar areas, subsidiary areas etc."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2423
+msgid "T &rarr; Social Media"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2514
+msgid "Social Link"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2521
+msgid "Social Icon"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2528
+msgid "Social Text"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2610
+msgid ""
+"Shows a subscribe box with which users can subscribe your newsletter. Use "
+"in: Homepage Content Area, Footer area, Subsidiary areas."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2611
+msgid "T &rarr; Newsletter Subscribe"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2619 library/functions/widgets.php:2738
+msgid "Subscribe To Newsletter"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2620 library/functions/widgets.php:2738
+msgid "Subscribe to get our latest news"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2678
+msgid "Your Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2679 library/functions/widgets.php:2691
+#: library/functions/widgets.php:2700 library/functions/widgets.php:2718
+msgid "Your Email Address"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2683 library/functions/widgets.php:2692
+#: library/functions/widgets.php:2702
+msgid "Subscribe"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2755
+msgid "Text Below Title:"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2761
+msgid "Newsletter Provider"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2765
+msgid "Please select"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2770
+msgid "Feedburner"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2775
+msgid "MailChimp"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2780
+msgid "FeedBlitz"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:2785
+msgid "Aweber"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2796
+msgid "ID:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2806
+msgid "Mailchimp API Key:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2811
+msgid "List Id:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2822
+msgid "List ID:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2832
+msgid "List Name:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2910
+msgid "Set Time Out"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2911
+msgid "Set the speed"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2912 library/functions/widgets.php:3066
+msgid "Quote text"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2913 library/functions/widgets.php:3073
+msgid "Author name"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:2922
+msgid "T &rarr; Testimonials"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:3038
+msgid "Transition type"
+msgstr ""
+
+# @ supreme
+# @ Directory
+#: library/functions/widgets.php:3044 library/functions/widgets.php:3639
+msgid "Fade"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:3049
+msgid "Scroll Up"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:3054
+msgid "Scroll Right"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:3059
+msgid "Shuffle"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3111
+msgid "Link Text"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3118
+msgid "Link Url"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3182
+msgid "One textbox is required."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3203
+msgid "T &rarr; Home Page Main Slider"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3204
+msgid ""
+"It displays slider for selected post type or custom images in it on your "
+"home page"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3566
+msgid "Slider Title 1"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3566
+msgid "Slider Title 2"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3566
+msgid "Slider Title 3"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3566
+msgid "Slider Title 4"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3619
+msgid "Slider Title"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3626
+msgid "Slider Description"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3633
+msgid "Animation"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3644
+msgid "Slide"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3651
+msgid "Slide show"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3669
+msgid "Sliding Direction"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3675
+msgid "Horizontal"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3680
+msgid "Vertical"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3687
+msgid "Reverse Animation Direction"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3693
+msgid "False"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3698
+msgid "True"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3705
+msgid "Slide Show Speed"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3712
+msgid "Animation Speed"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3727
+msgid "<b>Settings for Carousel slider option?</b>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3733
+msgid ""
+"Item Width <br/><small>(Box-model width of individual items, including "
+"horizontal borders and padding.)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3739
+msgid ""
+"Min Item <br/><small>(Minimum number of items that should be visible. Items "
+"will resize fluidly when below this.)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3745
+msgid ""
+"Max Item <br/><small>(Maxmimum number of items that should be visible. Items "
+"will resize fluidly when above this limit.)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3751
+msgid ""
+"Items Move <br/><small>(Number of items that should move on animation. If 0, "
+"slider will move all visible items.)</small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3759
+msgid ""
+"Posts Per Slide <br/><small>Number of items you want to show in one slide. "
+"this option is work with LI tag, it will show all images in one LI tag. </"
+"small>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3774
+msgid "Select Category"
+msgstr ""
+
+# @ supreme
+#: library/functions/widgets.php:3802
+msgid "Select the categories from the post types."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3806 library/functions/widgets.php:4601
+msgid "Number of posts:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3812
+msgid "Excerpt Length:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3828
+msgid "Enable Post Excerpt In Slider"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3842
+msgid "<b>Use Custom Images?</b>"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3860
+msgid "Banner Slider Title 1"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3872
+msgid "Banner Slider Title Link 1"
+msgstr ""
+
+# @ default
+#: library/functions/widgets.php:3881
+msgid ""
+"Banner Slider Image 1 full URL <small>(ex.http://templatic.com/images/"
+"banner1.png )</small>  :"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3892
+msgid "Banner Slider Title"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3898
+msgid "Banner Slider Title Link"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3903
+#, php-format
+msgid "Banner Slider Image %s full URL"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3913
+msgid "+Add more"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3914
+msgid "-Remove"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3959
+msgid ""
+"A simple contact form where site visitors can send you a message with their "
+"name and email address."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3960
+msgid "T &rarr; Contact us"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3966 library/functions/widgets.php:4307
+msgid "Contact Us"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3988 page-templates/contact-us.php:31
+msgid "Dear"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3989 page-templates/contact-us.php:32
+msgid "You have an inquiry message. Here are the details"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:3992 library/functions/widgets.php:4261
+#: page-templates/contact-us.php:35 page-templates/contact-us.php:183
+msgid "Message"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4125
+msgid "Please Enter Name"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4160
+msgid "Please Enter valid Email"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4176
+msgid "Please Enter Subject"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4193
+msgid "Please Enter Message"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4210 page-templates/contact-us.php:360
+msgid "Please enter captcha"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4234 page-templates/contact-us.php:158
+msgid "You need to play the game to contact us."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4237
+msgid "Thank you, your information is sent successfully."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4239
+msgid "Please fill out all the fields before submitting."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4246
+msgid "Name*"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4254 page-templates/contact-us.php:178
+msgid "Subject"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4272 page-templates/contact-us.php:193
+msgid "Verify words"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4288 page-templates/contact-us.php:210
+msgid "Send"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4312
+msgid "Widget Title"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4331
+msgid ""
+"Show Listing post with post thumbnail, post title, post content, post "
+"categorywise, gravatar with order by option."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4332
+msgid "T &rarr; Post Listing "
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4354 library/functions/widgets.php:4519
+msgid "By"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4543
+msgid "Select Post type:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4563
+msgid "Select Category:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4566
+msgid "---Select Category wise recent post ---"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4607
+msgid "Order By"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4620
+msgid "Comment Count"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4629
+msgid "Sort Order"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4633
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4636
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4643
+msgid "Show Author Gravatar"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4648
+msgid "Gravatar Size"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4652
+msgid "Small (45px)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4655
+msgid "Medium (65px)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4658
+msgid "Large (85px)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4661
+msgid "Extra Large (125px)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4668
+msgid "Show Featured Image"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4673
+msgid "Image Size"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4686
+msgid "thumb"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4698
+msgid "Show Post Title"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4703
+msgid "Content Type"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4707
+msgid "Show Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4710
+msgid "Show Excerpt"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4713
+msgid "Show Content Limit"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4716
+msgid "No Content"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4723
+msgid "Limit content to"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4726
+msgid "characters"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4730
+msgid "More Text (if applicable)"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4749
+msgid ""
+"Widget list the popular post as per total views , daily views or comments."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4750
+msgid "T &rarr; Popular Posts Widget"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4834
+msgid "There is no post available right now."
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4909
+msgid "Select Post type"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4930
+msgid "Total Number of Posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4951
+msgid "Show excerpt"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4955
+msgid "You can change Excerpt length from customizer Listing Page Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4959
+msgid "Excerpt Length"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4968
+msgid "Number of Posts Per Slide"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4975
+msgid "Shows post as per view counting/comments"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4981
+msgid "Total views"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4986
+msgid "Daily views"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:4991
+msgid "Total comments"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5003
+msgid ""
+"To make this widget work with daily views/total views, enable view counter "
+"from Tevolution - &gt; General Settings - &gt; Detail/Single Page Settings"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5007
+msgid "Pagination Position"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5013
+msgid "After Posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5018
+msgid "Before Posts"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5042
+msgid "Number of Reviews"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5050
+msgid "Shows the latest commented post/post-types post"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5051
+msgid "T &rarr; Recent Reviews"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5091
+msgid "Select Post:"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5211
+msgid "read more"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5250 woocommerce/woo-cart-widget.php:12
+msgid ""
+"Display Cart Informations with automatic cart update. Best to use it in "
+"\"Header right\" sidebar"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5252 woocommerce/woo-cart-widget.php:14
+msgid "T &rarr; WooCommerce Shopping Cart"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5254
+msgid ""
+"Displays Cart Information with automatic cart update. Most suitable widget "
+"area for it is \"Header right area\""
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5282 library/functions/widgets.php:5314
+#: woocommerce/woo-cart-widget.php:55
+msgid "Subtotal"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5285
+msgid "View Cart &rarr;"
+msgstr ""
+
+# @ Directory
+#: library/functions/widgets.php:5287 library/functions/widgets.php:5316
+#: woocommerce/woo-cart-widget.php:57
+msgid "Checkout &rarr;"
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:82
+#, php-format
+msgid "The new version of %s is available."
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:84
+msgid ""
+"you can update to the latest version automatically , or download the latest "
+"version of the theme."
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:87
+msgid "Warning"
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:89
+msgid ""
+"Remember that the updates will replace all your changes so please keep "
+"backup of your changes."
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:92
+msgid "Download latest Version"
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:107
+#, php-format
+msgid ""
+"Enter your templatic login credentials to update your %s theme to the latest "
+"version."
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:140
+msgid "You have the latest version of the "
+msgstr ""
+
+# @ Directory
+#: library/templatic_login.php:141
+#, php-format
+msgid "<strong>Your version:</strong> %s"
+msgstr ""
+
+# @ Directory
+#: loop-error.php:15
+msgid "Whoops. Looks like there are no entries available here."
+msgstr ""
+
+# @ Directory
+#: loop-error.php:39
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:110
+msgid "Link"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:114
+msgid "Facebook"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:118
+msgid "Twitter"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:134
+msgid "You have subscribed to "
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:135
+msgid " which allows you to submit "
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:138
+msgid "events till now, go and submit remaining"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:140
+msgid "events"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:174
+#, php-format
+msgid ""
+"You are browsing the search results for \"<strong>%s</strong>\" <span>%s</"
+"span>"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:182
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:184 loop-meta.php:190 loop-meta.php:196
+#, php-format
+msgid "You are browsing the site archives by %s."
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:188
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:188 loop-meta.php:190
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:194
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:194 loop-meta.php:196
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ Directory
+#: loop-meta.php:221
+msgid "You are browsing the site archives."
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:60
+msgid "by"
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:64
+msgid "on"
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:66
+msgid "| No Comments"
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:66
+msgid "| 1 Comment"
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:66
+msgid "| % Comments"
+msgstr ""
+
+# @ Directory
+#: page-templates/archives.php:66
+msgid "| Comments Closed"
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:139
+msgid "Contact mail successfully sent."
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:167
+msgid "Inquiry Form"
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:274
+msgid "Please enter your name"
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:308
+msgid "Please enter valid email address"
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:325
+msgid "Please enter a subject"
+msgstr ""
+
+# @ Directory
+#: page-templates/contact-us.php:341
+msgid "Please enter message"
+msgstr ""
+
+# @ Directory
+#: post.php:41
+msgid "Categories: "
+msgstr ""
+
+# @ Directory
+#: post.php:41
+msgid "Tags: "
+msgstr ""
+
+# @ Directory
+#: searchform.php:13
+msgid "Search this site..."
+msgstr ""
+
+# @ Directory
+#: woocommerce/woo-cart-widget.php:17
+msgid ""
+"Display Cart Informations with automatic cart update. Best to use it in "
+"\"Header right area\" widget are"
+msgstr ""
+
+# @ Directory
+#: wp_theme_update.php:71
+msgid ""
+"Oops!! Something went wrong.<br/>Please try again or <a href='http://www."
+"templatic.com'>contact us</a>."
+msgstr ""
+
+# @ Directory
+#: wp_theme_update.php:91 wp_theme_update.php:145
+msgid "There is a new version of Directory available."
+msgstr ""
+
+# @ Responsive
+#: wp_theme_update.php:93 wp_theme_update.php:147
+#, php-format
+msgid "View version %s Details"
+msgstr ""
+
+# @ Directory
+#: wp_theme_update.php:97
+msgid "<a href=\"\" title=\"Directory Update\">update now</a>."
+msgstr ""
+
+# @ Directory
+#: wp_theme_update.php:152
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"thickbox\" title=\"Directory Update\">update now</a>."
+msgstr ""

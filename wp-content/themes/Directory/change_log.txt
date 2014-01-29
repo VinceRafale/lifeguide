@@ -1,0 +1,205 @@
+Templatic theme - Directory (version : 1.0) 13 Oct 2013
+==============================================================================================
+13th December 2013 (Version : 1.0.4)
+-----------------------------------------------------------------------------
+Fix: WordPress 3.8 compatibility issue(detail page broken)
+---------------------------------------------------------------
+library/extensions/breadcrumb-trail.php
+---------------------------------------------------
+Improvement: Changed widget titles and descriptions
+----------------------------------------------------
+library/classes/facebook.php
+library/functions/widgets.php
+library/classes/twitter.php
+----------------------------------------------------
+3rd December 2013 (Version : 1.0.3)
+---------------------------------------------------------------------------------------------------
+Improvement : Added Are you a human plugin compatibility with inquiry form and "T>Contact Us" widget.
+----------------------------------------------------------------------------------------------------
+library/functions/widgets.php
+page-templates/contact-us.php
+
+---------------------
+Updated : po-mo files.
+---------------------
+languages/en_US.mo
+languages/en_US.po
+
+-------------------------------------
+Improvement : Added one new texture.
+-------------------------------------
+Modified file :
+library/admin/admin.php
+
+New added files :
+images/texture/icon_texture18.png
+images/texture/tts_texture18.png
+
+--------------------------------------
+Included : Directory auto import xml file.
+--------------------------------------
+New added file :
+functions/auto_install/auto_install_xml.php
+
+----------------------------------------------------------
+FIX : Issue of fetch directory css file for auto update check.
+----------------------------------------------------------
+wp_theme_update.php
+
+-------------------------------------------------------------------------------------------------
+Added a condition to display custom fields in Home Page Featured Listings widget on other pages too.
+-------------------------------------------------------------------------------------------------
+functions.php
+
+-----------------------------------------------------
+FIX :
+Issue of hide search icon when mobile menu open.
+Issue of wordress default gallery image height in ie8.
+twitter widget - follow us link color issue.
+-----------------------------------------------------
+library/css/style.css
+
+------------------------------------------------------
+FIX : Search result message when miles wise not search.
+------------------------------------------------------
+loop-meta.php
+
+---------------------------------------------------------------------------------
+FIX : Moved custom fields fetch query FROM content.php TO author and search page.
+---------------------------------------------------------------------------------
+author.php
+content.php
+search.php
+
+---------------------------------------------------------------------
+FIX :
+Show content limit and more text field open in show content limit option.
+Issue of navigation menu could not stay save.
+---------------------------------------------------------------------
+library/functions/widgets.php
+
+------------------------------------------
+FIX : Get direction result table design issue.
+------------------------------------------
+style.css
+
+---------------------------------------
+FIX : Theme layout box was not coming.
+---------------------------------------
+library/extensions/theme-layouts.php
+
+-----------------------------------------
+FIX : Fetch parent theme name for update.
+-----------------------------------------
+library/templatic_login.php
+
+-----------------------------------------------
+FIX : Removed category from auto install widget.
+-----------------------------------------------
+functions/auto_install/auto_install_data.php
+
+-------------------------------------
+FIX : Issue of SEO title for home page.
+-------------------------------------
+library/functions/context.php
+
+-----------------------------------------
+FIX : Issue of Pagination Prev & Next text.
+-----------------------------------------
+functions/theme-functions.php
+
+-----------------------------
+Updated - font awesome 4.0.3
+-----------------------------
+library/functions/widgets.php
+functions.php
+
+-------------------------------------------------
+FIX : Issue of button color in IE & Slider responsive.
+-------------------------------------------------
+functions/admin-style.php
+library/css/compatible.css
+library/css/style.css
+
+-----------------------------------------------------------------
+Removed two times "your comment is awaiting moderation" message.
+-----------------------------------------------------------------
+comment.php
+
+-----------------------------------------------------------------
+FIX : Issue of preview page and success page as per default layout.
+-----------------------------------------------------------------
+functions/theme-functions.php
+
+----------------------------
+FIX : Recaptcha design issue.
+----------------------------
+library/css/compatible.css
+
+-------------------------
+FIX : Changed auto install.
+-------------------------
+Modified files :
+functions/auto_install/auto_install_data.php
+library/css/admin_style.css
+library/functions/loadpopularpost.php
+
+New added files :
+images/adv_300x250.jpg
+images/adv_728x90.jpg
+images/logo.png
+
+---------------------------------------------------------------
+FIX : Issue of contact us mail, now included wp_redirect function.
+---------------------------------------------------------------
+page-templates/contact-us.php
+
+------------------------------------------------------------
+FIX : Popular post widget was not working with city wise filter.
+------------------------------------------------------------
+library/functions/loadpopularpost.php
+
+--------------------------------------
+FIX : Rating design issue with grid view.
+--------------------------------------
+Modified file :
+style.css
+
+New added files :
+images/dummy/img19.jpg
+images/dummy/img20.jpg
+images/dummy/img21.jpg
+images/dummy/img22.jpg
+
+
+
+20th November 2013 (Version 1.0.2)
+---------------------------------------------------------------------
+Improvement: Localization
+----------------------------------
+Changes in the whole theme
+---------------------------------------------------------------
+Fix: External scripts were not working on SSL enabled websites
+---------------------------------------------------------------
+/library/functions/widgets.php
+/library/functions/widgets.php
+/functions.php
+-----------------------------------------------------------
+Fix- Auto updates were not working properly
+--------------------------------------------
+/wp_theme_update.php
+---------------------------
+15th November 2013 (Version 1.0.1)
+---------------------------------------------------------------------------
+Improvement: Used WP_CONTENT_DIR instead of ABSPATH/wp-content folder path
+--------------------------------------------------------------------------
+/functions/admin-style.php
+/functions/auto_install/auto_install_data.php
+/functions.php
+/library/classes/process_mailchimp.php
+/library/functions/loadpopularpost.php
+/library/functions/widgets.php
+/page-templates/contact-us.php
+--------------------------------------------------------------------
+Improvement: Other performance related improvements in whole theme
+--------------------------------------------------------------------

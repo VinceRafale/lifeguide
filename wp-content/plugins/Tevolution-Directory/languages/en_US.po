@@ -1,0 +1,1485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution - Directory v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-03 16:00+0530\n"
+"PO-Revision-Date: 2013-12-03 16:01+0530\n"
+"Last-Translator: directorydemo <upendra@templatic.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ tevolution_directory
+#: bundle_box.php:20
+msgid "Tevolution Directory"
+msgstr ""
+
+# @ tevolution_directory
+#: bundle_box.php:24
+msgid ""
+"A directory module from Templatic that helps you to enhance your website "
+"with some brilliant features like showing map, places, sorting places with "
+"the help of map etc. This feature gives you freedom and flexibility to add,"
+"sort and monitor your places from your back-end. "
+msgstr ""
+
+# @ tevolution_directory
+#: bundle_box.php:29
+msgid "Activate &rarr;"
+msgstr ""
+
+# @ tevolution_directory
+#: bundle_box.php:34
+msgid "Deactivate "
+msgstr ""
+
+# @ tevolution_directory
+#: bundle_box.php:35 directory.php:71 directory.php:75
+msgid "Settings"
+msgstr ""
+
+# @ tevolution_directory
+#: directory.php:23
+msgid "System might facing the problem in include "
+msgstr ""
+
+# @ tevolution_directory
+#: directory.php:65
+#, php-format
+msgid ""
+"You have not activated the base plugin %s. Please activate it to use "
+"Tevolution-Directory plugin."
+msgstr ""
+
+# @ tevolution_directory
+#: directory.php:153 listing/listing.php:11
+msgid "Listing"
+msgstr ""
+
+# @ tevolution_directory
+#: directory.php:154
+msgid "Add a Listing"
+msgstr ""
+
+# @ tevolution_directory
+#: templatic_login.php:78
+msgid ""
+"Templatic Login , enter your templatic credentials to take the updates of "
+"Tevolution-Directory."
+msgstr ""
+
+# @ tevolution_directory
+#: templatic_login.php:82
+msgid "User Name"
+msgstr ""
+
+# @ tevolution_directory
+#: templatic_login.php:86
+msgid "Password"
+msgstr ""
+
+# @ tevolution_directory
+#: templatic_login.php:91
+msgid "Cancel"
+msgstr ""
+
+# @ tevolution_directory
+#: wp-updates-plugin.php:44
+msgid "There is a new version of Tevolution-Directory plugin available "
+msgstr ""
+
+#: wp-updates-plugin.php:49
+msgid " <a href=\""
+msgstr ""
+
+# @ default
+#: wp-updates-plugin.php:91
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: wp-updates-plugin.php:95
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:63
+msgid "Listing Category Pages - Below Header"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:63
+msgid ""
+"Use this area to show widgets between the secondary navigation bar and main "
+"content area on Listing category pages."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:184
+#: templates/directory-listing-search-form.php:3
+msgid "Search for"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:187
+msgid "Enter a location"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:198
+msgid "Submit"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:310 templates/archive-listing.php:100
+#: templates/taxonomy-listingcategory.php:97
+#: templates/taxonomy-listingtags.php:72
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:447 listing/listing.php:14
+msgid "Edit"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:466
+msgid "Add to favourites"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:467
+msgid "Added"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:498
+msgid "Events linked to this listing"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:618
+msgid ""
+"This connects your event listings to this listing and will show the selected "
+"events on the listing detail page.<br><strong>Note:</strong> Feature is only "
+"available with the &lsquo;Event Manager&rsquo; plugin."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:647 functions/directory_functions.php:677
+msgid " and "
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:658
+#, php-format
+msgid "Posted In %s"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:689
+#, php-format
+msgid "Tagged In %s"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:706 functions/directory_functions.php:792
+#: functions/directory_listing_functions.php:608
+#: functions/directory_listing_functions.php:864
+#: google-maps/google_maps.php:460 google-maps/google_maps.php:794
+msgid "review"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:706 functions/directory_functions.php:792
+#: functions/directory_listing_functions.php:608
+#: functions/directory_listing_functions.php:864
+#: google-maps/google_maps.php:460 google-maps/google_maps.php:794
+msgid "reviews"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_functions.php:721
+msgid "(Sample csv file)"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:95
+msgid "GRID VIEW"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:96
+msgid "LIST VIEW"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:97
+msgid "MAP"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:112
+#, php-format
+msgid "Sort %s"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:114
+#: functions/directory_listing_functions.php:179
+msgid "Alphabetical"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:117
+#: functions/directory_listing_functions.php:182
+msgid "Title Ascending"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:120
+#: functions/directory_listing_functions.php:186
+msgid "Title Descending"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:124
+#: functions/directory_listing_functions.php:190
+msgid "Publish Date Ascending"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:128
+#: functions/directory_listing_functions.php:194
+msgid "Publish Date Descending"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:133
+#: functions/directory_listing_functions.php:199
+msgid "Start Date low to high"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:137
+#: functions/directory_listing_functions.php:203
+msgid "Start Date high to low"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:143
+#: functions/directory_listing_functions.php:208
+#: templates/single-listing.php:35
+msgid "Reviews"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:147
+#: functions/directory_listing_functions.php:212
+msgid "Rating"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:151
+#: functions/directory_listing_functions.php:215
+msgid "Random"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:224
+msgid "All"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:225
+msgid "A"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:226
+msgid "B"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:227
+msgid "C"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:228
+msgid "D"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:229
+msgid "E"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:230
+msgid "F"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:231
+msgid "G"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:232
+msgid "H"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:233
+msgid "I"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:234
+msgid "J"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:235
+msgid "K"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:236
+msgid "L"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:237
+msgid "M"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:238
+msgid "N"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:239
+msgid "O"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:240
+msgid "P"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:241
+msgid "Q"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:242
+msgid "R"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:243
+msgid "S"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:244
+msgid "T"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:245
+msgid "U"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:246
+msgid "V"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:247
+msgid "W"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:248
+msgid "X"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:249
+msgid "Y"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:250
+msgid "Z"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:272
+#: functions/directory_listing_functions.php:287
+#: functions/widget_functions.php:541
+msgid "Featured"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:326
+#: functions/directory_listing_functions.php:434
+msgid "twitter"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:332
+#: functions/directory_listing_functions.php:440
+msgid "facebook"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:338
+#: functions/directory_listing_functions.php:446
+msgid "Google+"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:872
+msgid "Pinpoint"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_listing_functions.php:882
+msgid "We have found these results for listings matching your search criteria."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_single_functions.php:10
+msgid "Posted In "
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_single_functions.php:18
+msgid "Tagged In "
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_single_functions.php:43
+#: templates/directory-listing-single-content.php:340
+msgid "Facebook Share."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/directory_single_functions.php:52
+#: templates/directory-listing-single-content.php:349
+msgid "Tweet"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:22 google-maps/google_map_detail.php:29
+msgid "By car"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:23 google-maps/google_map_detail.php:30
+msgid "By public transit"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:24 google-maps/google_map_detail.php:31
+msgid "By Bicycling"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:25 google-maps/google_map_detail.php:32
+msgid "By Walking"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:28 google-maps/google_map_detail.php:35
+msgid "Metric"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:29 google-maps/google_map_detail.php:36
+msgid "Imperial"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:32 functions/google_map_detail.php:49
+#: google-maps/google_map_detail.php:39 google-maps/google_map_detail.php:56
+msgid "Enter Location"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:34 google-maps/google_map_detail.php:41
+msgid "Get Direction"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:35 google-maps/google_map_detail.php:42
+msgid "View Large Map"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:51 google-maps/google_map_detail.php:58
+msgid "Please enter your address to get the direction map."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/google_map_detail.php:184 google-maps/google_map_detail.php:210
+msgid "View Larger Map"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:52
+#: functions/manage_category_customfields.php:86
+msgid "Map Marker"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:55
+msgid "Or"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:57
+msgid "Browse"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:58
+msgid ""
+"It will appear on the homepage Google map for listings placed in this "
+"category. "
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:88
+#: templates/directory-listing-single-content.php:114
+msgid "Events"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/manage_category_customfields.php:90 listing/listing.php:9
+#: listing/listing.php:10
+msgid "Listings"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:23
+msgid ""
+"Shows the posts or custom posts (according to your selected post type widget "
+"area) on the base of its distance and location. Choose either from exact "
+"distance or randomly calculated locations based on the latitude and "
+"longitude of particular posts."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:24
+msgid "T &rarr; In the neighborhood"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:28 functions/widget_functions.php:197
+msgid "Nearest Listing"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:98
+msgid "Sorry! There is no near by results found"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:182
+msgid "Sorry! No near by results found."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:216 functions/widget_functions.php:377
+#: functions/widget_functions.php:600 functions/widget_functions.php:905
+#: functions/widget_functions.php:1035
+msgid "Title"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:221 functions/widget_functions.php:382
+#: google-maps/google_maps.php:336
+msgid "Select Post:"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:235 functions/widget_functions.php:615
+msgid "Number of posts"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:243
+msgid "<b>Show list by distance?</b>"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:249
+msgid "Show Listings From"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:251
+msgid "So Far Away"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:252
+msgid "Far Away"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:253
+msgid "At Some Distance"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:254
+msgid "Nearer"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:255
+msgid "Very Near"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:262
+msgid "Select Distance"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:264
+msgid "1"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:265
+msgid "5"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:266
+msgid "10"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:267
+msgid "100"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:268
+msgid "1000"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:269
+msgid "5000"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:274
+msgid "Display By"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:276 functions/widget_functions.php:303
+#: functions/widget_functions.php:403
+msgid "Kilometers"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:277 functions/widget_functions.php:303
+#: functions/widget_functions.php:404
+msgid "Miles"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:293
+msgid ""
+"Helps to search any post using nearby listing based on longitude and "
+"latitude. If Mile range option is unchecked then will search using the "
+"address entered in it."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:294
+msgid "T &rarr; Search Nearby Location"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:309
+msgid "an"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:313
+msgid "a"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:316
+msgid "What?"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:331
+msgid "Where?"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:334
+msgid "Within?"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:335
+msgid "Mile"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:335
+msgid "Kilometer"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:344
+#: templates/directory-listing-search-form.php:6
+msgid "Search"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:353
+msgid "Address"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:397
+msgid "<b>Search By Distance?</b>"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:401
+msgid "Search By"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:421
+msgid ""
+"It will show your featured posts of any custom post like events, listing etc "
+"on your home page. Featured posts will get displayed above the ordinary "
+"posts."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:422
+msgid "T &rarr; Home Page Featured Listings"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:430 functions/widget_functions.php:589
+msgid "Featured Listing"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:589
+msgid "View All"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:605
+msgid "View All Text"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:610
+msgid "View All Link URL: (ex.http://templatic.com/events)"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:620
+msgid "View"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:622
+msgid "List view"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:623
+msgid "Grid view"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:628
+msgid "Post Type"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:639
+msgid "Limit content to"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:639
+msgid "characters"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:642
+msgid "Read More Text"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:647
+msgid "Categories: (<code>SLUGs</code> separated by commas)"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:675
+msgid ""
+"Helps you show listings of all categories belonging to your custom posts "
+"along with their child categories on your home page."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:676
+msgid "T &rarr; All Category List Home Page"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:741
+msgid "View all &raquo;"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:753
+msgid "Invalid Category."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:773
+msgid "Title:"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:778
+msgid "Post Type:"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:789
+msgid "Category Level"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:801
+msgid "Number of child categories"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:814
+msgid ""
+"Helps to search the post using nearby listing based on longitude and "
+"latitude of the current city. Use only on listing pages."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:815
+msgid "T &rarr; Search Nearby Miles Range"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:825
+#, php-format
+msgid "Find a %s"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:848
+msgid "Mile range:"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:910
+msgid "Max Range"
+msgstr ""
+
+# @ default
+#: functions/widget_functions.php:915
+msgid "Select Post Type:"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:949
+msgid "T &rarr; Add Related Event"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:970
+msgid "Related event saved successfully."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:1002
+msgid "Select an events"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:1010
+msgid "Currently no event created by the owner of this list/place."
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:1018
+msgid "Save"
+msgstr ""
+
+# @ tevolution_directory
+#: functions/widget_functions.php:1040
+msgid "Description"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/direction_map_widget.php:8
+msgid ""
+"Shows a Google map with custom post type checkbox selection specially "
+"designed for detail page."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/direction_map_widget.php:9
+msgid "T &rarr; Direction Map - For detail page"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/direction_map_widget.php:55 google-maps/google_maps.php:331
+#: google-maps/google_maps.php:667
+msgid ""
+"Map Height <small>(default height: 425px) to change, only enter a numeric "
+"value.)</small>"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:15
+msgid "Show all posts on category map"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:17 google-maps/google_maps.php:132
+#: google-maps/google_maps.php:139 google-maps/google_maps.php:146
+#: google-maps/google_maps.php:153
+msgid "Enable"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:18
+msgid ""
+"With large categories this can significantly increase category page load "
+"time. When this option is disabled, the map will only show posts from the "
+"current page."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:27 google-maps/google_maps.php:50
+msgid "Map Settings"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:51
+msgid ""
+"Use this settings area to tweak the maps on your site. If you happen to have "
+"\"Tevolution - Location Manager\" disabled, use the \"Single city map "
+"settings\" area to define map properties for your single city."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:57
+msgid "Settings saved"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:69
+msgid "Single city map settings"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:74
+msgid "City name"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:78
+msgid "City latitude"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:79
+msgid ""
+"Enter the latitude for the city defined above. Generate the value using <a "
+"href=\"http://itouchmap.com/latlong.html\" target=\"_blank\">this website</"
+"a>."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:82
+msgid "City longitude"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:83
+msgid ""
+"Enter the longitude for the city defined above. Generate the value using <a "
+"href=\"http://itouchmap.com/latlong.html\" target=\"_blank\">this website</"
+"a>."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:86
+msgid "Map type"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:89
+msgid "Road Map"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:91
+msgid "Terrain Map"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:93
+msgid "Satellite Map"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:95
+msgid ""
+"The selection made here will affect your homepage and category page map."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:100
+msgid "Map scaling factor"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:110
+msgid ""
+"Set to zoom level for the map. The higher the number, the larger the zoom. "
+"To show a city area set the factor to around 13."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:115
+msgid "Map display"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:118
+msgid "According to Map Scaling factor"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:119
+msgid "Fit all available listings"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:120
+msgid ""
+"If \"Fit all available listings\" is selected the map scaling factor set "
+"above is ignored. The zoom factor will be set automatically so that all "
+"listings fit the screen."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:125
+msgid "Other map settings"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:130
+msgid "Show map view in category pages"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:133
+msgid ""
+"Disable this option only if you want to use a widget to display the map on "
+"category pages. Enabling the option will prevent map widgets from working."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:137
+msgid "Show \"Map\" tab in detail pages"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:139
+msgid ""
+"Disable this only if you want to use a widget to display a map on the detail "
+"page. This option prevents map widgets on detail pages from working."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:144
+msgid "Hide maps on mobile devices"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:146
+msgid ""
+"With this option enabled, maps won&rsquo;t be shown on mobile phones and "
+"tablets."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:151
+msgid "Show map in full width"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:153
+msgid ""
+"Stretches the homepage map across the full width of the screen. This setting "
+"will be applied to any widget inserted in the \"Home Page Slider\" area."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:161
+msgid "Save Changes"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:187
+msgid ""
+"Displays a Google map with custom post type checkbox selection specially "
+"designed for home page. Use it when you operate with a single city"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:188
+msgid "T &rarr; Google Map - Home page Map"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:245
+msgid ""
+"<h3>No Records Found</h3><p>Sorry, no records were found. Please adjust your "
+"search criteria and try again.</p>"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:249
+msgid "Title or Keyword"
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:361
+msgid ""
+"Shows a Google Map for your Listing page useful to fasten the loading speed "
+"for mobile browsers as well. Use it when you operate with a single city."
+msgstr ""
+
+# @ tevolution_directory
+#: google-maps/google_maps.php:362
+msgid "T &rarr; Google Map - Listing page Map"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/install.php:20
+msgid ""
+"You have no listing post type now but your directory is in active status so "
+"you can generate listing post type again. "
+msgstr ""
+
+# @ tevolution_directory
+#: listing/install.php:21
+msgid "Generate Listing Taxonomy"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:12
+msgid "Add Listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:13
+msgid "Add new listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:15
+msgid "Edit listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:16
+msgid "New listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:17
+msgid "View listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:18
+msgid "Search listing"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:19
+msgid "No listing found"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:20
+msgid "No listing found in trash"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:21 listing/listing.php:22
+msgid "Listing Categories"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:23
+msgid "Category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:24
+msgid "Search category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:25
+msgid "Popular categories"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:26
+msgid "All categories"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:27
+msgid "Parent category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:28
+msgid "Parent category:"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:29
+msgid "Edit category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:30
+msgid "Update category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:31
+msgid "Add new category"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:32
+msgid "New category name"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:33 listing/listing.php:34 listing/listing.php:35
+#: listing/listing.php:36
+msgid "Listing Tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:37
+msgid "Popular listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:38
+msgid "All listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:39
+msgid "Parent listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:40
+msgid "Parent listing tags:"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:41
+msgid "Edit listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:42
+msgid "Update listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:43
+msgid "Add new listing tags"
+msgstr ""
+
+# @ tevolution_directory
+#: listing/listing.php:44
+msgid "New listing tag name"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:36
+msgid "Send to friend"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:49
+msgid "Send inquiry"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:95
+#: templates/single-listing-preview.php:230
+msgid "Overview"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:98
+#: templates/single-listing-preview.php:237
+msgid "Map"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:102
+#: templates/single-listing-preview.php:241
+msgid "Special Offer"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:106
+#: templates/single-listing-preview.php:245
+msgid "Video"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:281
+#: templates/directory-listing-single-content.php:283
+msgid "From"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:281
+#: templates/directory-listing-single-content.php:295
+#: templates/directory-listing-single-content.php:308
+msgid "To"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:304
+msgid "Date:"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:308
+msgid "Timing:"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:433
+#, php-format
+msgid "Visited %s times"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/directory-listing-single-content.php:434
+msgid " Visits today"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/listing-search.php:36
+#, php-format
+msgid "Search Results for: %s %s"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/listing-search.php:91
+msgid ""
+"Sorry! No results were found for the requested search. Try searching with "
+"some different keywords"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:202 templates/single-listing.php:57
+msgid "Visit Website"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:207 templates/single-listing.php:63
+msgid "Phone: "
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:210 templates/single-listing.php:66
+msgid "Time: "
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:213 templates/single-listing.php:69
+msgid "Email: "
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:221 templates/single-listing.php:26
+msgid "Logo"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:233
+msgid "Photos"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing-preview.php:527
+msgid "Back to Top"
+msgstr ""
+
+# @ tevolution_directory
+#: templates/single-listing.php:35
+msgid "Review"
+msgstr ""

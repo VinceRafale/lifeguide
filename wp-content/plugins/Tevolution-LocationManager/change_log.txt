@@ -1,0 +1,111 @@
+Templatic Plugin - Tevolution-LocationManager(Version 1.0.4)   13 Oct 2013
+==================================================================================
+13th December 2013 (Version 1.0.4)
+------------------------------------------------------------------------
+Improvement: Changes in widget area names and descriptions
+------------------------------------------------------------------
+functions/google_map_widget.php
+functions/googlemap_listing_widget.php
+functions/widget_functions.php
+----------------------------------------------------------------------------------
+Fix: slashes comes in city name when enter aphostrophe('s) is there in city name
+----------------------------------------------------------------------------------
+functions/manage_locations.php
+---------------------------------------------
+Fix- Issue in fetching nearest city
+-----------------------------------------------
+functions/manage_locations.php
+----------------------------------------------
+
+3rd December 2013 (Version 1.0.3)
+---------------------
+UPDATED : po-mo files
+---------------------
+languages/en_US.mo
+languages/en_US.po
+
+-------------------------------------------------------------------------------------
+FIX : City wise category display count issue on multipal post id count for same category.
+-------------------------------------------------------------------------------------
+functions/location_functions.php
+
+------------------------------------------
+FIX : Issue of location icon design on tablet.
+------------------------------------------
+css/location.css
+
+------------------------------------------------
+FIX : Double quote issue in google map address.
+------------------------------------------------
+functions/google_map_widget.php
+
+-------------------------------------------
+FIX : After post the comment redirect on 404
+-------------------------------------------
+functions/location_rewrite_rule.php
+
+----------------------------------------------------------
+FIX :
+Manage city display issue on sever more then 10L city in db.
+Header city selector dropdown issue.
+----------------------------------------------------------
+functions/manage_locations.php
+js/location_script.js
+js/location_script.min.js
+
+------------------------------------------------------
+FIX :
+post type location wise redirect issue.
+location urldecode for langguage wise set city slug 
+------------------------------------------------------
+functions/location_filter.php
+
+----------------------------------------------------------------
+FIX : Home page map different language marker pin didnt display.
+----------------------------------------------------------------
+functions/google_map_widget.php
+
+-------------------------------------------
+FIX : Display manage location title in bakend.
+-------------------------------------------
+location-manager.php
+
+------------------------
+FIX : w3c validation issue
+------------------------
+functions/manage_function.php
+
+
+
+20th November 2013 (Version 1.0.2)
+------------------------------------------------------------
+Improvement: Localization of whole plugin
+-----------------------------------------------------------------------------
+Fix - Fatal error was coming up when trying to export cities
+-----------------------------------------------------------------
+/functions/location_cities_export_csv.php
+-----------------------------------------------------
+Fix: External scripts were not working on SSL enabled website
+---------------------------------------------------------------
+/functions/manage_function.php
+-------------------------------------------
+
+15th November 2013 (Version 1.0.1)
+---------------------------------------------------------------------------
+Improvement: Used WP_CONTENT_DIR instead of ABSPATH/wp-content folder path
+--------------------------------------------------------------------------
+/functions/admin_ajax_categories.php
+/functions/location_cities_export_csv.php
+location-manager.php
+--------------------------------------------------------------------
+Fix: Map markers pop up issue in map widgets in mobile devices
+-----------------------------------------------------------------
+/js/googlemap.js
+--------------------------------------------------------------------------------------
+Fix: Markers were not appearing on map if listing title contains double quatation mark
+--------------------------------------------------------------------------------------
+/functions/google_map_widget.php
+--------------------------------------------------------------------
+Improvement: Other performance related improvements in whole plugin
+--------------------------------------------------------------------
+
